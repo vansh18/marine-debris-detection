@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411137706,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:05:19.221Z",
+            "updatedAt": "2020-06-11T04:45:53.687Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "fulto081",
+                    "createdAt": "2020-06-11T04:45:52.597Z",
+                    "updatedAt": "2020-06-11T04:45:52.597Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bucket",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:05:19.133Z",
+                    "updatedAt": "2020-04-06T08:05:19.133Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwB0AEv/olQTkcNChoKAAAADUlIRFIAAABEAAAARwgGAAAAvofhHAAAAZdJREFUeF7t2UsOwyAMBNBy/0NTsUBKLMLXBttMt62i6mXGEBJ++LwEAjzeAgAhiQAIQOpDAglBQpCQoYUUlUFllFUmxhhDCGqTueWPJYSv+6INRxykhvFE0gIjBtILUUrOSRwRkBWM06lhB+HCOAXDCiKBkWF21YgNRBKjtdXkxGIBOYnBXa1lEC0YNEWzqXELMpucJRCt6VjZFU+DWMPoXa2uA0kwtfkyBWI1HT1z5VqQr6RcDVJCuR6EogDkMVjSsB0G8TBQa/uUYZB0MdcorSfJ0vcAISoAAUi9SEhIwccrytQqk308oiyBeFyCl0G8pYUNxAPM1Na9dyNncb6IglicL+Ig1mq0DeRZM81VOgKiNTX5KIR9lekdutpmDEDInVMBoiklakBOD1x6jHp0hpw+jSudKasD2VkjMyA7luavNw4qEyJdJfaX3SN7Dc7fcu1y3YBwzJfWyzkzleFanl2CzCSlBZHBTSaEcy7RawGEPtNIalu8NhKChNRzi4QgIUjI0GxHZVAZVAaVGRJAZVCZocD8Ab02vCRtun3yAAAAAElFTkSuQmCCANy+CA==",
+                "origin": [
+                    310,
+                    135
+                ]
+            }
+        },
+        {
+            "id": 411137707,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:05:19.221Z",
+            "updatedAt": "2020-04-06T08:05:19.221Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJwBRwG4/olQTkcNChoKAAAADUlIRFIAAAA7AAAAOwgGAAAAxSXyswAAAQ5JREFUaEPtl9EKwyAQBOv/f7QlD0IJSdfTWm7N9PUk2dk5LCmvB/3Kg1hfwO5qG7OY3aAB1ngDiZcImMXsBg2wxhtI5IJijVnjDRpYvsa11rqyp1JKN0P3wZ7Aq8F6MnyeORfxE9hskHelTMG6QDb4YVg30AN4CNYRFFh147laHTILrFqHJPPwBYXZJOZUDMx+a4g1VvuTZB5aY2er4f/ZWdjzJ9fs86ILs9Rs5MM6GrydjxQWgj1e0Pvwf4CqglrWliUM2wOcAfSqiCHYO+CskNMf72qFMs6HzWaEUZmAVQ25zjHrak7lxqxqyHWOWVdzKjdmVUOuc8y6mlO5Masacp1j1tWcyo1Z1ZDr/A1T11/8T3AsdwAAAABJRU5ErkJgggplldQ=",
+                "origin": [
+                    421,
+                    206
+                ]
+            }
+        }
+    ]
+}

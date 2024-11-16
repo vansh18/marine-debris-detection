@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411162150,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T09:29:53.888Z",
+            "updatedAt": "2020-04-06T09:29:53.888Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "fish",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T09:29:22.516Z",
+                    "updatedAt": "2020-04-06T09:29:22.516Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBpQNa/IlQTkcNChoKAAAADUlIRFIAAABLAAAAKwgGAAAAMLp1sAAAA2xJREFUaEPtm02oVVUUx39/HyZaSFpG4Aeo0MB08Br0MqLAwEDEkY8Gb6IpaEQgCk4aNFBwVIMGOlAcJYIiFCGiDlL8RExRXpTkIEgkEhEHGiK+vyy573F9j3fPOfeec8+59741PWuvvfbvrr332mvvK6ZkjIDtC8B7QB9wF9gp6ciogqZYge1vgN2TsBiWtCK+9Tws2xFJvyUEzWlJq3salu0fgaE0s0shaRS7Ucf2bWBphrF91nOwbF8EVmaANKr6U8/ASljE07D7ruth2b4HvJmGRiOdrl2zbC8GrgJzW4VUaz8iqa+rIsv2PmBL3inR6EbY8bBsHwXWALNyiqLxZk5ICvudm5Tavgm8yKyLlPr0qqMiy/a3wBfAoiIB1dk+J+njyp8NbUfUbKpl2G+UMAseSnq9/kepVGTZ3gOsr2XWZfr2WNKr46O3TIfqSyP7gc1tmlpJ3fwtKVKPCVIKrNoU2wW8D7xdwhSbDNj3knZM9rGtsGz3A5eAGUk/b5u/PwAGJP3VMItvh1O2fwA2Aq+1o7+UfYwAtyQtS6lfbJ5lexA4BExP61DBek9rkT0o6b+sfRU2DW2vA37O6lAB+sPAR5Ietmo7d1i2FwI3gDmtOtdi+yfA15Jip81FcoVlO4r+UfwvUwxskxTrZK6SGyzb14DY7cqU3yUtL8qBXGDZvp9j7ajZsV6RNNBs4zTtmoZleysQiWXLVcg0jjbQiR1uSFKUagqVzLBs/wrESXxaoZ4lG38GfJnnAp7UZSZYtmOHeSXJaMHfYwHvlxQ7blslFSzbq4DTFYimB5LyqqtnBt0Qlu3zwAe1hxKZjefU4FEcS4Dtks7mZLMpM5PCsh0Z7+ymrObT6Kmksqf8SyOZAMt2VCX/AOblM+amrFyXFA82KiUvwbJ9GPi85PrS2G1KpUjVQ6nAtAs2H0qKelcl5UVk2b4DzC/Jw0gFjkmKck6lRbbXAr+U4GUklZ+WvcNlGXfAOgN8kqVRi7p/1jLv6LejJGBFcezdgryO0u0p4ICkYwX10TazAet47a1Aq53GgXYD8BZwUlKkH10lAWsB8E/GUUXExNPnWJTjnu3fjO07Un10N7wcV0EJI/hK0t6OHGVOTo8lpbYjv4lz4Hj5H3hHUqQXPS3jM/iZwEFgSd0/DBpePPYSvedbneqkVePNWAAAAABJRU5ErkJggtutvw4=",
+                "origin": [
+                    380,
+                    56
+                ]
+            }
+        },
+        {
+            "id": 411162151,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T09:29:53.888Z",
+            "updatedAt": "2020-04-14T02:25:20.123Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "jellyfish",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T09:29:22.516Z",
+                    "updatedAt": "2020-04-06T09:29:22.516Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBfgGB/olQTkcNChoKAAAADUlIRFIAAAAdAAAAEwgGAAAAbJkGfwAAAUVJREFUSEu9lr8uBXEQhb+DiATFLWgkEo1OoxK1ivZ6Cp2Im3gDFBqlJxCJjkopEpVEqSHREBWVhHtkNrty/252N7k77c6cb34zmZkVOWZ7BWgB60ADmAQEPANTwNKQcAMfwJmkg16fEOizFHYHTOclVfBbG2hKusz8u6C2b9NXFdQr5XYlaSsi/qG2v9PylVIq6dySdJRAbUcp10oKVHFvSxrPoNH4uqwh28fAXl3EmIaAvgILdUEVZvsNmK8J+itpIqCfwGxN0G1JFwH9AmZqgCbAZE5tvwNzI4Ra0linfkBfgMURQZO57Nu9tk+BnRFAnyQtD9LNlkMs5YHLv2Iy15I2h8Vm0H3gsCKgN+xG0kaeVufCj9v5AHQ1vWQiuS8ceNrS5d8EziuU+0TSbpEkh/YxPeT36R9CntYPsCrpsQgwfP4Ak2thlDaFnBIAAAAASUVORK5CYILqVKMV",
+                "origin": [
+                    359,
+                    109
+                ]
+            }
+        }
+    ]
+}

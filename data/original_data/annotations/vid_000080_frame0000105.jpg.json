@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411139183,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:11:19.398Z",
+            "updatedAt": "2020-06-05T21:52:48.779Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:10:38.555Z",
+                    "updatedAt": "2020-04-06T08:10:38.555Z"
+                },
+                {
+                    "id": 27641174,
+                    "name": "overgrown",
+                    "value": null,
+                    "labelerLogin": "fulto081",
+                    "createdAt": "2020-06-05T21:52:12.359Z",
+                    "updatedAt": "2020-06-05T21:52:12.359Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "container",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:10:38.555Z",
+                    "updatedAt": "2020-04-06T08:10:38.555Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBVwGo/olQTkcNChoKAAAADUlIRFIAAAAvAAAAOQgGAAAApqhyKgAAAR5JREFUaEPtmlEOgzAMQ5f7H7pTkTq1LOBMa6BG3m8q47waFlDtFfyVUkpw6ZRlZmZICC642nQz/Lf5u4zviR814pJfxXTfhNfAc8yvSPyM/of86sZrE/vo8JtnoO49Qo3J+D46Mo/+xmfW+5tW5GeSRVoijwhl1UU+iyzSFXlEKKsu8llkkS41+X442+Z51slS5lFOZ9db7kV+NlmkJ/KIUFZd5LPIIl2RR4Sy6iKfRRbpijwilFWnJt9meqrv8/1OVvq05jf6rRvGt6lnmGd7lx0yL/NZD3ZHV+QvhD1c6os8U+5lfqnYsETHjc3q5odP3EfbvtqsEz7pdPewFjkcN0yV0Ruv7siZeKtHdy5q1PMHjyZGm/plHQIQ1XoD0bnsNgYUtLsAAAAASUVORK5CYIKASqAy",
+                "origin": [
+                    117,
+                    42
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411135594,
+            "classId": 1400964,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T07:59:12.696Z",
+            "updatedAt": "2020-04-06T07:59:12.696Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "fishing_gear",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T07:59:12.622Z",
+                    "updatedAt": "2020-04-06T07:59:12.622Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "cage",
+                    "labelerLogin": "fulto081",
+                    "createdAt": "2020-05-29T22:42:02.719Z",
+                    "updatedAt": "2020-05-29T22:42:02.719Z"
+                }
+            ],
+            "classTitle": "unknown",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    165,
+                    114
+                ]
+            }
+        },
+        {
+            "id": 411135595,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T07:59:12.696Z",
+            "updatedAt": "2020-04-06T07:59:12.696Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "starfish",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T07:59:12.622Z",
+                    "updatedAt": "2020-04-06T07:59:12.622Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBvgFB/olQTkcNChoKAAAADUlIRFIAAAAeAAAAFwgGAAAAHD//agAAAYVJREFUSEvFlj0vBFEUhp9XEDqVRCJBaBQqUfkBelHo8BM0lGoqpWh8JDRCLRL/gI2Q6AhBQ4FIxMfKkbuZkbVmdu5cm91bv+d9zj1n5pwrchwzG5J0liMkVSofEzM7BwbLtAbsSZrwiU/SZILN7BNoTgE8S+oIgVcFm9kl0JdhvCFpOi/8B+z6BxwAnUAT4MqZWRGgKKklCGxm68BU3uAy/QPgSn4LrAIrkp6q+cnM3Aey8w9oWmgRcAkdRx/iWrnQgT+A3KUKTHQ3/hMc2PWynqcgabgRYHfJmUaB7xz4BuiuZ62Br9J/2oA+v8dgNzwKVUZjrQtS+DWZajBIfBPs/TMSzWwfGPN1CNDNS1pKAl8BPQGGWSEvwGi8z5PAp4Drech5BLaBe6A/WjTXkhYqzZLAc8BiCBW4kDTgE5u49szsFWj3MajQzEpa9olLA7tSHwGtPiaR5g3oylqHsV/WC2QLGAfaMhJwK3BE0olvoj4vjJJXtLc3K1rggIfApO9N48S+AaomgSoMWhicAAAAAElFTkSuQmCC3TC7wQ==",
+                "origin": [
+                    238,
+                    118
+                ]
+            }
+        }
+    ]
+}

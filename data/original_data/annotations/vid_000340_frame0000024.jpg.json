@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411092468,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T02:50:36.628Z",
+            "updatedAt": "2020-05-08T05:06:06.795Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "fish",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T02:50:36.560Z",
+                    "updatedAt": "2020-04-06T02:50:36.560Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBHwHg/olQTkcNChoKAAAADUlIRFIAAAAaAAAAGQgGAAAAL94+YAAAAOZJREFUSEu11ssNwjAMBmD/4s4NhoA9WIAFWI0FuDMHUoeAI3eMEjUSfTixHdNbpSZf/Yhb0B8uZmYA+N16chNhJmRtn1BIQhIcBtWQMKgayVirrog0QKmXC7IALsgDmKEeRN0MzY6aHU7XOeqNRJW6KKSauoh0NWddC8lvqKhLFdIg3ZAWGd/0DOCmnfh5MhiBtOQK4KJFcgaY+WOc4gOAowUp0OqHStjoBWBvRcyQtdMmXWeozxvA1hNNiehJRDtpg54oFudI/KEwHspatKW9T0R0nz8YFc1i1jHzg4gOADbeWkjrvmHdaQ4cQBPeAAAAAElFTkSuQmCC8BVzKw==",
+                "origin": [
+                    260,
+                    118
+                ]
+            }
+        },
+        {
+            "id": 436834731,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-05-08T05:06:06.573Z",
+            "updatedAt": "2020-05-08T05:06:12.094Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "eel",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-05-08T05:06:10.454Z",
+                    "updatedAt": "2020-05-08T05:06:10.454Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKKQMzHwQYkF8qV9gCpfE8XxxAP77OTo/kYBHhY3v7lj1W8OKFiyxbe+pqStliPxu6OjDbnlsNc926sE1LfsbslZEHHjP0tInwNN9OEzD88t1hyYd+Pv2/bP2/aKbnib6h24y3O/EbZOY8/TJjQ0G6xRmXLg8VHTjvkhi+b2yH2w02JWf2z+f9fCtusgVYzeLr6uaxzSmgCAO4WQyI=",
+                "origin": [
+                    207,
+                    145
+                ]
+            }
+        }
+    ]
+}

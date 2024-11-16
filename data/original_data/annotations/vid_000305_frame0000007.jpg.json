@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411093296,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:01:08.678Z",
+            "updatedAt": "2020-04-06T03:01:08.678Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJwBEQHu/olQTkcNChoKAAAADUlIRFIAAABGAAAAGwgGAAAAwT75rQAAANhJREFUWEft2MEOhCAMBNDt/380hoPJyrZSWhanUu8Sec5YIn3yYgUoXXgBM0wppdyhEpF5bYSXZXr4Hkq7sYhIwzCjKFGR1DBekGhAj8GcUKg1E2FmJyTah/oHZiUIh4WSoG6VPFAom7SMf4gqIdYMHuapaXZbJU+NLPHV3rOioiFhVoz6hBFiGhrme0+z6/UamNlIr4SpSN4EhRvX2snlPVVvBTMyzbaE0VSNhUE92HlqJN0rfYu2h5HSA/fb4R+p0KzZJucCs1OFetVKmEboTE7CMNGpOAcJ5GQc+xB7IAAAAABJRU5ErkJgggeMc14=",
+                "origin": [
+                    304,
+                    289
+                ]
+            }
+        },
+        {
+            "id": 411093295,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:01:08.678Z",
+            "updatedAt": "2020-04-25T03:49:05.645Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:01:08.603Z",
+                    "updatedAt": "2020-04-06T03:01:08.603Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "box",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:01:08.603Z",
+                    "updatedAt": "2020-04-06T03:01:08.603Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBywE0/olQTkcNChoKAAAADUlIRFIAAABXAAAAOAgGAAAAiGpk4wAAAZJJREFUeF7t2VESgjAMBFB6/0PjgIKAIAnNtk2zfkNlHtukxjQ4+IzjOKaUkoNH3T1ikw88YWogW4WvjquF9IReDReJevYCaqS7Cm5pWE3al2stXgZxn8gPwyDBJ+5DXEnpKY7roSTkei+pJm6u5MX9E3BR3Aip3VoTF5TcadliuNFSS1xgaovhRkwtcZlcsABw+SINLWJZKHbOJS5wexCXuKYCLAumnPvFiEtcoABwaSbXO27Ek8L80xc9z40KS1xwSYAObqKnlriA9G5LLWRwEzW1xx5mjhsVdmli8D8oCfwmNk/utGhUXJYFQBNbloTiRk0scQsmdsW2/M6oyb0aI5g1NML+xpS4yq2rGXYR9w+uBvJsGRPc3kpCLqpZQyPsdfSzktsb7Nl8QFmSd5cT98NhVQqyBze9JRYB+2hwQ1h5oRCXBaLKUUWnhd5ArwYsejbZHXNye0W07v4y0u9V3eGimpMWdn6xPaW2JdjucGuXgWO6mdwn+114jyvc1rb9nbELXG+o65GvhYbmFe8uuS/wH+Ad+AnYKQAAAABJRU5ErkJggiYHy44=",
+                "origin": [
+                    151,
+                    210
+                ]
+            }
+        }
+    ]
+}

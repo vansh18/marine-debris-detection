@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411095268,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:20:35.398Z",
+            "updatedAt": "2020-04-06T03:20:35.398Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "wood",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:20:35.310Z",
+                    "updatedAt": "2020-04-06T03:20:35.310Z"
+                },
+                {
+                    "id": 27641175,
+                    "name": "crushed/broken",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:20:35.310Z",
+                    "updatedAt": "2020-04-06T03:20:35.310Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "container",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:20:35.310Z",
+                    "updatedAt": "2020-04-06T03:20:35.310Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLpQGzFwQYk1wa6XwBS/zxdHEMq5ry96MjHZChw5MDf/8sPc3ZyR53w6e8s2Lvg6T49z0kqQPRy79Zri8xfHN3l+P53dvlzn8XVf3h+deRf3HvswsLVL+oMS27olRwPKznDsitT2iqF6+7WHr4ZLtt1FzOrXcw9/aLBs+S2kVWC1N3tLX3T3b7rLny89GKt94sK4RfHoucdflnhWfI4t2QHZ8ljIas4oCKw3rtu7bMdzO+5tXsv/j3tIuPkF9tSSw6o7MqVlDVofXerje9m77ubbXwzHcxzXY+/cfue487+1qm8Z8HisoXWxy4kWl/gffziwO4XeckvLli/SHv84sH8RdayJ5P5nhi2f+SA+Mm0muHFbuFokdaZgsCQYPB09XNZ55TQBAAekpCd",
+                "origin": [
+                    224,
+                    110
+                ]
+            }
+        }
+    ]
+}

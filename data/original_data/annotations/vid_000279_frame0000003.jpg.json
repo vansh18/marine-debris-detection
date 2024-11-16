@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411094136,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:10:49.491Z",
+            "updatedAt": "2020-04-06T03:10:49.491Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBglAOyTTjYgGRMZ7gRkLrt6eIYUjHn7RVPoWYDHpYDf/5ffjJjboNyNcc7u6BW70mm+2IYiAUNf6dZn78fbMqovv3Nhc9vJladEbyxwD1DW769JXBz+8rQti1af9wn7RC22Fuy4b/raR372mbN3k6t7EvWDLFLmo/u+lJn0PhlUrHNy7lLAqsKH4i//LNBaa/MBW+raH2/6wHNXd2tyt7pOZO7nm0z+/12zbWohtmvzBd1hxx+/2/lGta00N9OPJdW/3jiesCnpZjhc7N7+MncJ3f3fNunDnKbp6ufyzqnhCYAE35pqQ==",
+                "origin": [
+                    193,
+                    265
+                ]
+            }
+        },
+        {
+            "id": 411094137,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:10:49.491Z",
+            "updatedAt": "2020-04-06T03:10:49.491Z",
+            "tags": [
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bag",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:10:15.861Z",
+                    "updatedAt": "2020-04-06T03:10:15.861Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtK9QJzPwQYkL15y1gFSxzxdHEMq5ry9tFHwsAEPi+PX+1tkrS8zK61lLNfe8WAdNwMqkLIz/7N7ovhO457KHxP9kucdDm03PHdw1+UZzw38eZPnNM9oO3H5sET6jtDDM9JWTAWyFsgCWRKXBW6b9hay3bTsLWwz4N1497JEOgdQzBYoZsCrumzhEZMjPs5nQERnZsfMNqHDApG2PZlsRjy6bQvP6kyRbDNbzIAbfMiLX+/dKLXc4Z4jiOvp6ueyzimhCQBoWFQq",
+                "origin": [
+                    225,
+                    125
+                ]
+            }
+        }
+    ]
+}

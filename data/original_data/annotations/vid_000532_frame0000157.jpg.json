@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411097860,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T04:12:04.484Z",
+            "updatedAt": "2020-04-06T04:12:04.484Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "fish",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:12:04.400Z",
+                    "updatedAt": "2020-04-06T04:12:04.400Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBngJh/YlQTkcNChoKAAAADUlIRFIAAAAnAAAAJwgGAAAAjKNRNQAAAmVJREFUWEfNmL2vDkEUxn8PEY2IuD4ikQgSHYUCodDREYlSTa3RiY+/gEIiUWtIhE6lIOgRiZCb6IiPS6EQ131kXrvXvu/d3ZndfXe90855znnOMzNnzoxIHLYfAQeANcB1SRcSoa3NFEPa/gJsLLH7Kmkuhu8yX0vO9gKwoSqApGhyvZCzfRc4XePcklZ1CR7DlmZuO6gVVKsblyVdiQXoMl9F7jdQp8qSpNVdAqdgV5CzfQq4Vwfue6/lscvILQJ1qpyVdCsl8642ZeRc4XQJ2CXpfdegqfgxcjU1Lfh7JWlvquNp2E2Sq1ItjxXUm5P0bRrBYz6Wydl+ASQpM/iBsP0dWB/LJpvvvQCHOEXlPgJbEsnlZp8lbW6ISTYvknsIHE9G/jPsTcWmB6KO+2NJR1skVwmZJrmpL/UkuXlg5xSz/yFpXVt/TW6ItjECLjQSm5rWxzJy54CbXZjUYEORfwscTCFa1TIdBp72RLDo9pOkyvI1uefuAD+zkhLeB712ugWWi5LCw2lsjMjZfgPsGUCpWIgzkm7nRrL9AdgaQw04f0TSs9H1ZTvWiQzI62+ovLGYSXKZGk9mmdzMLGtoYldUhqBc7EEz+J4rntb7wMn/xqA68Lu8zs3aiR0V5Zxc7IU/pLALkka/WsVOOGzKXn+NEjK8Jun88p4rAmx36edeStqXXYc7gPC5eAzYDqwNt2SWfC5AEOMX8FrS/jLiVV1JYxX7eC5WLmPDEjMvaXfCsjUyif1sPgBOxDz2odrYgagjYPs5cKjC5qqkS7EE2sw3Op3Zj2fokLcBNyRdbBM0FfMH8wbIs9W7cuAAAAAASUVORK5CYILWEjaJ",
+                "origin": [
+                    146,
+                    160
+                ]
+            }
+        },
+        {
+            "id": 411097859,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T04:12:04.484Z",
+            "updatedAt": "2020-04-06T04:12:04.484Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "metal",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:12:04.400Z",
+                    "updatedAt": "2020-04-06T04:12:04.400Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "can",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:12:04.400Z",
+                    "updatedAt": "2020-04-06T04:12:04.400Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBzwIw/YlQTkcNChoKAAAADUlIRFIAAAAeAAAAOAgGAAAA6sVIiQAAApZJREFUWEfNmTuMTVEUhr/fm4hIJCoJnSg8QikRBaZRqgWNqbQKvUKj0FCIQq33SkSiNoJiSiGhw0SEGTOzZN/MuTn32Hufdc+cfa+bTDP3X+tbj33WWbNHOD5mdhmYk/TGIXdJlFOZ2SXgQULzBzgv6amL1BBFwWb2CjjpdBgC2Cvpu1M/kP0DNrPV2O8dTuclHXLoRsFmthv45jVM6EzSBo+PYcZmZh4Dh+aXpB1tugHYzOaAY21i7/eSsod22OMes61iW5W0MRdolXFfZR6y2rIuBgY+StqfylpmNgM89vZvDF32hAfwJ2DfGA7d0ly5AzhMnk1ub2MI28ArgOuhH4NZSV9LOhGzCxl3HZGeOFYkRasZwIvAFo+XLppUuQP4GXCmi1OPTQ4cnrUPHiddNEnw2qzufXLVgrwj6Voz6JKTq2ItSAqv3JFPBS55sqMvjAr8A9jZpYcem1ifK/AT4JzHSRdNDnwYeNvFqccmCZ7Ayb4p6UY9yBI7V6wIi5K2TQNMs9z1jBeAXZ6eddEkwRPo86yke1XQI2togW2zXpyfkoazYpLgkT43wcXWoJB6vc9NcK9/UUQO4QVJjwZBNL8s3OevkvZMAzws96QzzoKXgM1dhoTHpjpgsYxfAqc8TjpqLkp6GAMXXf6A35K2py5fSi5/gz7/d+CSy1824xfA6Y6Hx2N2NHlJUniCfZ4WeDkHXgayNzeemiY0SzlwHzd9qdi+tN3elnqeD7SB54GD6yhp1DQ5QOrqAqd7cA3VeudY4KrilqTrreC+197kazHWFDO7D1zpoddHJL2Lrj4p52Z2Fbi7DvhM/f8XrlI3Dtu4F3LPJZ1tBjw2uHJgZrPAbWDr2rYanvnwVgs/7yUdz1XnL7g9BUJpBGNtAAAAAElFTkSuQmCCdCJJYQ==",
+                "origin": [
+                    122,
+                    193
+                ]
+            }
+        }
+    ]
+}

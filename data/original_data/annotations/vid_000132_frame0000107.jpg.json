@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411155033,
+            "classId": 1400964,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:42:07.092Z",
+            "updatedAt": "2020-04-06T08:42:07.092Z",
+            "tags": [],
+            "classTitle": "unknown",
+            "bitmap": {
+                "data": "eJwBUQGu/olQTkcNChoKAAAADUlIRFIAAAAZAAAAEAgGAAAA4+bUqwAAARhJREFUOE+1lL1KQ0EQhb+jggpWFqkUe0WCWvos2thaWthYW/gQwdbCEMhbqCBi8gIRLMQyiIoe2UtWbq75uZG7U+7OnG93ds+IMWH7BqgD88AbcCCpOS5/0rqKm7ZPgIuSYu/AlaTD0hDb28BDSUA+7Qs4knQ5qnboJra/gT+3mwH6DBxLus7XZIK2l4A+MDeD4KTUR0mhK1lEyCewUBEgyvQlrWQQ2+fAacWAKPckaT1AesBaIggKYfsVWE0FAVoBcgfsJoR0AiS4+j4hpB1/VwfYTAHK3iQK274F9ioGvUiqjZpdDWBnYMwusP/P3/chafHXjNNOb7sGhJFRdiJ0JW0NOX4aJNfSs4Fxlws1oSMGepI2ino/xA5TPzskLr8AAAAASUVORK5CYILIQI02",
+                "origin": [
+                    99,
+                    223
+                ]
+            }
+        },
+        {
+            "id": 411155032,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:42:07.092Z",
+            "updatedAt": "2020-04-06T08:42:07.092Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "shell",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:41:32.860Z",
+                    "updatedAt": "2020-04-06T08:41:32.860Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBMQHO/olQTkcNChoKAAAADUlIRFIAAAAaAAAADggGAAAAMQ0MQwAAAPhJREFUOE+9lC1vQkEQRc8NAoGp4ScgIUFU1dTV4rA1CDQJJDWta1V9VZE4PIYgKrA8jcQQgiOhSdNppn3brCB5TfOWUZOdnXty92NEFGa2ANpADRBwAPbABmjk65W89gGsgYGkWaxzKncxzGwIPOUCRT2n6hYtfgJLSVfxxgDy4ndectxJenRNmdkKaJYMiOVu/GgddASqCUHIw8z8Uv2Ck0UAbYF6MsqP8MgdTYBuSlBwdAu8ngP0ANwnBD1LGvjRXQPzRKBMUiv8owtgV/LLewcuJWXBQJgMHWD6D1f+B8eS+kW9v2PHzHrAyx9GkbvvSHorEo/rX7O6S4K26aTCAAAAAElFTkSuQmCC55F88g==",
+                "origin": [
+                    9,
+                    256
+                ]
+            }
+        }
+    ]
+}

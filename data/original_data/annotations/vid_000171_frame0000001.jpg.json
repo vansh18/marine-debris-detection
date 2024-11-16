@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411160789,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T09:18:37.700Z",
+            "updatedAt": "2020-04-18T05:38:23.701Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T09:18:37.621Z",
+                    "updatedAt": "2020-04-06T09:18:37.621Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bag",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T09:18:37.621Z",
+                    "updatedAt": "2020-04-06T09:18:37.621Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwB1QEq/olQTkcNChoKAAAADUlIRFIAAAAtAAAAFwgGAAAAn/vGUQAAAZxJREFUWEfVlz0vREEUhp9jCSHiIxGFQpDoJAoFrUQoFHRUfoBEQaXS6on/oJKoNEoKP8HHXyCbaEh4ZeTO5i67d+/uzlxrypm573nOmXPPnDE6aEhaB7YTpHMzu6yFZ53ALGkKeAS6fvC8AXNm9pCe/3NoSU/AdEbwZGZVzhQKLWkLOARmgG6gN+dJl81s2O8NAi3pANgDJoBSTpCmtplZhbUlaEk3wHwSqSiQNTwqmdmnm88NLWkTOAZmmwpRwM0+2nWhJY0CO8ARMBTQdltSDrwKWtIKcAJMAn1tqUf6uApa0jWwHMlWMNkKtKRTYDeYcmSh7/SQ9A70RLYVTN4kjQDPwRQLEHLQS8BtAbbSJuQOuEavkQvDp4cT+DfDQ7v0cGnS8SNdPRaAu2ZuyNje/bxD0vYql4ukDeAiNkyWfhZoTeik9L0CA0WC5wXNgr4CVouAbgXWc/1qmCR9tFqKGjnbDmjdSCcpspjU7XodoHPK9Sn3wCAwDrwAZaAfWAPG/E8dCjQT2i8mjb5zwL/P3CNz38zOGkU09voXL9FrBLG35lgAAAAASUVORK5CYIJDoMrt",
+                "origin": [
+                    207,
+                    148
+                ]
+            }
+        }
+    ]
+}

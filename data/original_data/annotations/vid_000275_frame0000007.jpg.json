@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411094924,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:18:17.738Z",
+            "updatedAt": "2020-04-06T03:18:17.738Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtK2QKzJwQYk21QVU4BUjaeLY0hG49vrjlwNDjzOge/rX+6SEhBkXeg541990743VTIuEBAZGpx3PTv2xXJBpWMBjes/BCZY32HdtnBuguYt3r3mXLuzXJcfun2xs4DTilOPuZmPw+SF70WjAqEamSqZHV382Ww7uL78S9A0Y9wjxTot8T9Pgu27xcI+XPdPvj9y9gLQHQyern4u65wSmgBy3UDZ",
+                "origin": [
+                    276,
+                    278
+                ]
+            }
+        },
+        {
+            "id": 411094925,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:18:17.738Z",
+            "updatedAt": "2020-04-06T03:18:17.738Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "fabric",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:18:17.669Z",
+                    "updatedAt": "2020-04-06T03:18:17.669Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "clothing",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:18:17.669Z",
+                    "updatedAt": "2020-04-06T03:18:17.669Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtK1QGzHwQYk2XxEngOpt54ujiEVc97e8O47bMDj4nj3/6V5vkwVDSon2suik65yHqmLq+RhAIMGodt+v3RtNrAuyc/TFvw984tY8I/UG68S0j3yZKfL/de6JOs3Ue7nqkuxfBPlSsVe+qleUj6ndfdt9suHYRPyfmz7ErDa83uNpu25V5dq/3v2X/Tc9VXC+QPLxtlCuzUvzhbaCyWkhf8ya99V/+W7vPq2+/uK+qdnL8vUhlf9cZHeYl1x+9zv6Kn7Pk8Uc383Vd7modlpuW3hdSmNqts9ZEt/JLJHlM0+bf9BaZVy+f1irabPl90n1FkfPcIKdX7xX8b092VlM0/2V4D4nq5+LuucEpoAhSl+Dg==",
+                "origin": [
+                    171,
+                    182
+                ]
+            }
+        }
+    ]
+}

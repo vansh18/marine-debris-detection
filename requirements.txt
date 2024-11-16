@@ -1,0 +1,36 @@
+# # Core libraries
+# numpy==1.23.5
+# pandas==1.5.3
+# scipy==1.10.1
+
+# # Visualization libraries
+# matplotlib==3.7.2
+# seaborn==0.12.2
+
+# # Machine learning libraries
+# scikit-learn==1.3.1
+# tensorflow==2.13.0
+# torch==2.0.1
+# xgboost==1.7.6
+
+# # Image processing libraries
+# opencv-python==4.8.0.76
+# Pillow==9.2.0
+
+# # Deep learning and computer vision
+# torchvision==0.15.2
+# albumentations==1.3.0
+
+# # Preprocessing and augmentation
+# imgaug==0.4.0
+
+# # Other utilities
+# joblib==1.3.1
+# tqdm==4.65.0
+
+# # Notebook support
+# jupyter==1.0.0
+# jupyterlab==4.0.0
+
+# # Additional tools for reproducibility
+# notebook==7.0.1

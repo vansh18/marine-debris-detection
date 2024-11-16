@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411093548,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:03:19.266Z",
+            "updatedAt": "2020-04-06T03:03:19.266Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:02:44.968Z",
+                    "updatedAt": "2020-04-06T03:02:44.968Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bottle",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:02:44.968Z",
+                    "updatedAt": "2020-04-06T03:02:44.968Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKeQGzDwQYkteZMXwek2jxdHEMq5ry9cJC32YGB2fFX/qw9PwScelyS7hoGN+49zQRUYx7pv2X737PLD6cXygm+9mpwd9tlfeHCwjrR5K6ItRaHXbLYb22x3pPJbqnk4bCgwYNxIhMTq8uvRUIeS04qXWXqFVgplX65b8P1d4UeUxosGAuZmlhYuDqLJzooJjKAQdp3poj9Mb53fkgfAHE9Xf1c1jklNAEAt/xC1w==",
+                "origin": [
+                    222,
+                    226
+                ]
+            }
+        },
+        {
+            "id": 411093549,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:03:19.266Z",
+            "updatedAt": "2020-04-06T03:03:19.266Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJaQBzIwQYkl6iZRAKpfk8Xx5CMxrfnHbkaDARYDv79v/yrSgeX413fprD77FlKKp6TVDx/1Z5eeHFeh8XidbOkzEWqxG/I/hK5IfpLLJLvLMM0Z+OJC26eqHfWnrDgsvPqCQvAQL4tTOnygqseARduToSILHi8YO8G1QtdwpoXlFeUpmiUMG/182HMncvACgZ/9b5wlu2PZWT++In7cv55kDsZPF39XNY5JTQBANNWTSw=",
+                "origin": [
+                    438,
+                    233
+                ]
+            }
+        }
+    ]
+}

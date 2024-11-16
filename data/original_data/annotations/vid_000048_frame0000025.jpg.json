@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411142190,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:24:20.555Z",
+            "updatedAt": "2020-04-06T08:24:20.555Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "metal",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:24:20.478Z",
+                    "updatedAt": "2020-04-06T08:24:20.478Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwB1gIp/YlQTkcNChoKAAAADUlIRFIAAAAqAAAAKAgGAAAAiAtoUAAAAAFzUkdCAK7OHOkAAAKQSURBVFgJzZnPaxNBFMe70WrFlgZBBbEXEUR7L4h/Qg96ETyINw+CZ8GDf4d/QIVSvHirf0BbPLZVhBbUgygqilh/kIY08fOWvmVms7PJNJndefAyszNv3nzy3R8z2UxMBLBer3cZ38JbeNfwA+odXErxffwL/jgAhjslE27go9geg8+6Zxixh+T3cFFuXLaaR0ryDb7HkO0z5oTvuCHi3yZJMq9xDa34lgA+EPkYFwJScK6R/rlyHUlREnwkwUVNEricQdk/XooC+AjvVggpGmzLx9CKAviJ+AsyqGLroWhjKFAg94CbqRjQnO5O6akHsIn/rBlSgBedoADKo+Ez3pTImu1cISiQDwF7jZ+qGVCn/31ca1oC+YL6TT2OpFy3biYglwC7GwlchsFdn2SgQJ6h50fWG0/lF5hN8xr9Hg+bRXJfjlJQ1LxNPVPXCqv34D1qput9CgdoG57Jepn6Zv8L5LS2KqjsgmKyDpCWcOY1GhPoWh4mVtCXedBYT/1pTv0/E7bBjTRlNkRQ7+YhhUlOfSzruWr0VCtmmaDoSRpaZmON9XSTXDR/A5nlV2Qs9sQFojdTh4BjrqCK2luI5rwM9fG0WxFM2TTPyjpV0UsEvSsLDNwnK+MUispSXmgpqPRwUx1QqMKFwQEbPwApYjnNBLvljArfsTBoikxRCUTVOn4Wb6DmDS/QQ1h5E2J9gUFJRui3tnJlecxTr3FzWglcylYu228OmqsPlMHy6uY6HnKP2mYea7/pDSoDSPKK4iouC8G47Rv5Zdn2sj5FdTTJdg6/9aa2jaFcIef5MeQpTsHTYBJ/gx/19fdXxs4WZw/UyoRXcPnHo42XmfQv417XYiBsOy1QzkvJjvQ/+g/LstNlIVmqxwAAAABJRU5ErkJggsd8Sx8=",
+                "origin": [
+                    239,
+                    201
+                ]
+            }
+        },
+        {
+            "id": 411142191,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:24:20.555Z",
+            "updatedAt": "2020-04-10T15:32:00.714Z",
+            "tags": [
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "unknown_instance",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:24:20.478Z",
+                    "updatedAt": "2020-04-06T08:24:20.478Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBggF9/olQTkcNChoKAAAADUlIRFIAAABMAAAAHQgGAAAAAEWKeQAAAUlJREFUaEPt2UEKwjAQBdA/LsSdG8G14D28hUsPIXg5r+JhRlKtJGnapiFtJxMFF9a06ONPOqOE/8MRYGa2DxAROa//Xh8BH6oPzdGrEW8IKoRWNVgsloFrS7M6sClIVScsFcpHU5+wHFAtmilLdWA5gfybYNFgc8IMdQvFJGwtoGL2MAlA4ktSIpKIhEmHCSXrd6ecYxwqDaTPINRFJG36WkBCUGOt1iiYZhy7IY2ttA5YDUD2MB0L1dnDtEONlVosXJMwzVi5oJyEaQXLjdWUsiasOYA6PZkGsCWgii3JJXGCfVp7UHLS1kZy5knJYJKgQn3YC8A5th/JuU4iTO986b/BzE8AFwDbwEnmX2H7ufmuMf3c6Jjl/1SSE32pa036kjEfipnvAB4AjkOIJaUquIfFYKSsYeYbgCuAE4A9gB0RHVKuJeGcN3kAeBpbSE1XAAAAAElFTkSuQmCC6F2c0Q==",
+                "origin": [
+                    240,
+                    228
+                ]
+            }
+        },
+        {
+            "id": 411142192,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:24:20.555Z",
+            "updatedAt": "2020-04-06T08:24:20.555Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJwBwAY/+YlQTkcNChoKAAAADUlIRFIAAACJAAAAQQgGAAAA5Z+HEAAAAAFzUkdCAK7OHOkAAAZ6SURBVHgB7ZxLiBxFGMedrBqNSZT1GV+BRIloQNGbIoKo6MmTikcjQlD04E3Q4MHcBFERVBTFgwcJiBdBRYXViwcfKL6joDFijA9Iopu4j/H3H3aW2Z7t6eqerqqverrgY6arq77Hv/79VfWzc1xbGoNAt9s9h2DuQG5CtiDTSAf5D/kd2Y98hOzpdDrf8NuWJiIAEXYjfyGLSL8M/u/Xufyq31fIRU3EauJiYiB3IVXJQNfCMksLZaKholTUFuMIMHhf4+IlgdycYSq6btBWS5JBNAz+hyDf41bo6eAYRDmpD8ea/p/21x4CEGQ3XoUmiIBYi+35PiJtJukjYfCXgVrErZhjdISMsqHNJAbJIZcgyLORCSI31uPHzpgslRNtyUGAwZlj1/E5u0NWd1uShITb0RYEUYZfcGzuvVk73XiHuJKBNyv18tSpzSSegK2qliyiKeYf5MSqOuru12aSuhEdX98TqDBDEIUTLZNwxJyO/Y2IFmgHOdU6xu/EF3D5FxBOtgRErZmEAJ9GDiPZewzaPoQcRXoFEP5AfkT2IaqfR/Yg69meyELsuwjcFEE0ELVkEoK7E12vIHWcsnXR8y6Z5UZ+J6qA4wECPsta0GNnEgJ7naBeReogiPARcW9Ar7LPdlVMQiHWB4jTHEGE/ViZhMCeR8c9UuSxzJJV1nnUH101OG7GCT0EtHxTLbpTAw6MSxJNDSFKF6KMnfVCOFrFBiT5kn6XVukbok9l4AnsYAgHl2x0sBeKkAHD6t2juQuDZgkiMCpnkkiDtkBGqWvtE5QMecbAUWd5uhxgtlTKJAT2UqSIprD9VCTbtZsllidRapogCrpSJiG4Q/TdIAURSiPWJ2CoKeZzZCoChqVMVsokWIh5wUvrE512p14+IADzBBHIVTNJ9EUka5NKvltgFiR/DT9us+CLiw9VM4mLbq9tAHrGqwFPyvH7FlQnQxDBUPpoJMhn6HevOkcuSa5NwE8PEyV1cFYhScxFa5aX08w6f2crrW5DkL34ttWqf3l+lWI0QZ6BopiL1mwcN2crjG8nRxDhWYoktL8PKZ19ZMhTedCT3trVcoDppe0kS6kBJ1BrVwcXmW7Mn0aC2wuw4+4kGYLTzpmEQK+mvbWrg2vwa7tl8PHvYvzbYdnHIt+cMwnBzqDs2iKFEfb/Qja5IIJdJ5Pg9isNNzk1NtqoDEmOEMMpBuMweyq8lOW+MIhZKZecphuCvdIoQRSsLtOfVirqcI3fCmfKnyUnkmBe76VaLo9acw7inotPkuSL03RDwFbeS80D/ADrklW/0pPXwXc9mH2KjSt82wmhvzCTEOxjOGL9QR9TDxCDmU7LLw8xgCFsFJIEJ/S6hPWidYmlVzAeBzCnLG0dWPk3MhCAP5U2ujcysp0UGSj7mXLON+CHvi2irwSZv8jnilVRJnkDRSkQRPGe5xq0z3YQ5Hb0N4YgwmokAQg4+sNFJQf0ObLJzpJ9am3etCwicHJJQrA/sf/CWhH0r2zFVwP9m1tpAcx05ffnlbXpb6063RDs9YSWGkE0Gvpq4I6Iw/JZRNveTK+aSQB6FosmXzl0QGIvU45uqgUtYHYNBj8MajSQsaFMQrB6PDFVggi2rYGwy5p5J1vRlO2hTAJJFgluqD6xgK8im3wSymcw+xhbur/VyLIikxDst0SZOkE0UC+GGi0wuwxbjSWIcFwmBMFqHv9OlQ0oc2SSIN8dA7fknxcpGu9BkqS8WM3GGeQZEwhyNoZ/yxpv2nZvuiHYtQSW8mI1Oy66lzOdrfSw3YjnRYpw6a9JfihqmOB+r2/JQUJ9AK8xd3pHjW+fJCbue4xytMK+zRX6lOmS/GOJrsHqafNHXBsn1q5/ANTuNphtQ2ms6zG1x1OkUEA+VNQo0f0aSF/lPV+KLerVAi+1O72uOHr5dBZwrcMBvTmwfGbo6lCq7bylZAOA+Hqm4+1JIojGscmZRPFt5KLaYf2pq5BJFtDV5INrCKqmB3vmUMRjVECQhyeNIIJLmaQJN/Tyhn4bmaS2Ww1g1aSr0nmYDdWLJH9SG+Lq5JDxABVTkEQHwdgFnHRV+ujYihJUoOnm1gT9dnK5LoIsGXvfyWgDG/VO4zhK5ojN+gtYZeGfhyQnlO2U1x6Mmjwt54Xdq+8vXLeMbJXmzvvrchuC6BNgE3NdJItbjyQccfvY8XJ2Z8LbupBW50vumxLGYmzX/wf7V6PWVpP3BwAAAABJRU5ErkJggpixMKs=",
+                "origin": [
+                    343,
+                    205
+                ]
+            }
+        }
+    ]
+}

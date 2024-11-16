@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411108679,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T06:11:09.856Z",
+            "updatedAt": "2020-04-06T06:11:09.856Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "wood",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:10:34.193Z",
+                    "updatedAt": "2020-04-06T06:10:34.193Z"
+                },
+                {
+                    "id": 27641174,
+                    "name": "overgrown",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:10:34.193Z",
+                    "updatedAt": "2020-04-06T06:10:34.193Z"
+                },
+                {
+                    "id": 27641175,
+                    "name": "crushed/broken",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:10:34.193Z",
+                    "updatedAt": "2020-04-06T06:10:34.193Z"
+                },
+                {
+                    "id": 27641177,
+                    "name": "decay",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:10:34.193Z",
+                    "updatedAt": "2020-04-06T06:10:34.193Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "wreckage",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:10:34.193Z",
+                    "updatedAt": "2020-04-06T06:10:34.193Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBhgV5+olQTkcNChoKAAAADUlIRFIAAACHAAAAmAgGAAAAzmf6RAAABU1JREFUeF7t3dF64yoMhdHm/R86/dypp05iGwkkkOA/1xgctLLBOJ3z+FL893w+n1fNH4/HQ9EVTRPMgLigdzD2zwmQBBVX3KIIhwQGQBSznqQpOJIUasRtmuM4fgiWmREltRuziEOzpJzdFkDsitW7J3cc2wcCSO+y2ox3i6M1NVhibIo0qpduOEiQUSWuH7crDoDUF2rEld1xAGREmevGBEfdvC1x1SUOy80oj7g5LYEjZ9263PUwHOw9utS3aZBTHN5LCucfTTXrdvEHjp4wSI9uda4a6AVHbxj7HXO8XlU794tC4CBB3OtcNUAYHACpqp/rRf9xjFpS3j8dS4xrvVWdh8PBPkRVP9fGYXGAxLXuos7BIZqmNRuFx0GCjIMJjnFzH37kNDhIkP6WwNF/ztOMmA4Hh2X9bJmekJYOsCwP2kpj9ZvCeUdKi4ME8Udp9spe+k0mPfyLajVCMw4piuMNA8SqfL79NP1MsAbG/nEA4ltYi96r/zShBcZ24+CwKJ9vHyocrSC8lhY2pz5IxH9lbwnDOjk4PR2Ew2dY22UFHD5VKiaHz7A+OFhebKs1HQ6A2AEZhsNr38ESAw7RDFhvokWDTtRoaHKQHrElgSN2fYbe3XAcpMfQ+t8OHgIHQGICCYPDEwgb0zp8oXB4AQHHJDgAUldIj6vCJYcXDk5O9XxC4vACwvKiA7IUDtIDHMUZIEGKU/TTYLnkOE4LSO6RLI2DZQYcxQwlQc6naPnk2KcFIJ9AQuKw/LOFYmz8NgAHOO7fQvJ/1X6ZH5LjjQsJ8jch4XCMWFLO4gQkAc85ouDgMRccxf3qygnCslLgAY7i96dPg0hLCsfswZaVqDhW3X+EWlbA0SehpaOAQzpT2yvsxQ7JwAGOyxkAhwLHansPcIAjR3Jsdxl5U7ra6/1QyQEOZYw5Nw+HAyDOFVd0HxLH8f4jLzOzP9qGxxE9SWYGkgJH9CSZFUg6HFGTZEYgKXFEBTLbIRk4FLt3TdMZkiQtjsjpMctvQcChiYPKtllTJDUO0qNSq/AycAgnyqJZtgRJjyNLemTch0yBAyAWufbZxzQ4AGIPBBz2cyruMfoeZCocpIfYpajhdDiyAYmcHuAQfYd8G0UFMiUO0sMG87Q4ANIOZGocAGkDAo62+TO9OtreY3ocmdIDHKbfNVlnkX/B/v4JIgFZIjlID9mX6ANq3WU5ryJBdHVbJjn2aQGIHMhyODItMdu9jtyDgEP+RRrWchSQJXFkS49RCbIsDoCUg3BpHAC5B7I8DoBcAwHH79zwiPuJBByHOQHIKxBwJMXR4wkGHG9pSnr8TQg4TvZjAPk3KeC42KxnAeJ5egqOm0f91YGAo3BQmAGIV3qAYwIcXk8u4Ci/Ykjx77F7AAGHAEemI3bLJQYcQhwrAgGHAsdqQMAxKQ6LPQg4lDgypUcrEHBU4FgFCDgqcWQCUvsEA44GHLMDAUcjjpmBgMMAx6xAwAGOyxkAhxGOLOmh2ZyCwxBHBiDgMC64trvovwGRAiE5tJUXto8MBBzCIno2yw6E5PDU8fUV9odCkvQAhzOOvftIKSKB8fPSrtPcMEywFJEAAccAthFSBBwDCq8ZchQSCQyWFU0lHdv2RCKFAQ7Hgmu77gFEAwMc2go6t/cGAg7nAnp274lDC4Pk8Kx0Rd/gqJi0lS6xBlKTGPt8c84RVJ4WyYbg/ZoWGCwrQWHUHLnvEHYgrTDAERzHdnuSBDlCAEeColrd4hWO4zJyhuM4fm2KsOewqmKHfo5QrgpOcnQoBEPwyh4DNzPAsgKPyxkABzguZ+AbBqWIt6RbjKEAAAAASUVORK5CYIKluGLT",
+                "origin": [
+                    10,
+                    164
+                ]
+            }
+        }
+    ]
+}

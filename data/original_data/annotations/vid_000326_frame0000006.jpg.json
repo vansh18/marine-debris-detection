@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411104594,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T05:47:36.776Z",
+            "updatedAt": "2020-04-06T05:47:36.776Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T05:47:36.699Z",
+                    "updatedAt": "2020-04-06T05:47:36.699Z"
+                },
+                {
+                    "id": 27641177,
+                    "name": "decay",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T05:47:36.699Z",
+                    "updatedAt": "2020-04-06T05:47:36.699Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bag",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T05:47:36.699Z",
+                    "updatedAt": "2020-04-06T05:47:36.699Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJeQGzCwQYkdX+sO8DAwOju6eIYkuH89mYgX7OCiMvFTf9dL984cszMTY/jve+ZL9c1XxUq3Jg23d5jwYIpzvrOB4UkTgUEMBy7o+HsyChRvJiHlTXBZ1/g1mu77nprqn6NCva/VzXD+lKknpSf2Cuul1wV7Da//8neOe749vIX+Vd8l9LPhP3d3Ndv1rUl98m8JwvCGN4alEdN5doqlFq2OWjBpoa+ir1vudqDHKRuTm91WqnQuyYyMSDLY+9aI5E72i0Omts81wWu8ggKOOXR1pTdt5Ah5H1a8UvvjZ+2GItkBL+f8jvP7+ENZ8OrYZ6mWZNNQ9z3X9ngdmtLiaF9lFtSr9OWeX+V4xLDHv75U3d10pzKmrTNSgWXFqy7kP4/2+gzY/vawM36Vsl7JphqPT6WNv9yQMCVgLYmJoNnbpJcXAdmSKdqaDAk501ZuIChZ2cghkS+2NwC0y0nPx8BhiyDp6ufyzqnhCYAP7WmCw==",
+                "origin": [
+                    185,
+                    24
+                ]
+            }
+        }
+    ]
+}

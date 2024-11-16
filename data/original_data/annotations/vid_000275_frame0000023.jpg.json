@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411093722,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:05:44.827Z",
+            "updatedAt": "2020-04-06T03:05:44.827Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "fabric",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:05:44.747Z",
+                    "updatedAt": "2020-04-06T03:05:44.747Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "clothing",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:05:44.747Z",
+                    "updatedAt": "2020-04-06T03:05:44.747Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJzgNiGgw1ITl5yeTGQeufp4hhSMeftJce8wwYCLI7//18+qbqPdUKjS9ak6K9MRVXx+gzIoKG4NnbF/eOM6/recH5lu7PCbp3/FemP7F8//mmvcta7wl60vSq+7kr7hy1V7ze++rC06rfgqxPaq2bLLO3bOXnX1WuvKnav2p27nK+saddDs1cBy1dY5y3mK5206+mnVw7LV+3WW9ln5Hi3QrO0x/PVtZ1WB1xKP4fY/gsp/e5j+yel9LeL7a+S0v/Hrzb7h3/3v7K4/tGW/3vuXi2p/Pph/8f9in79Af/ev+2sz8s89KH8f+FR+80Cx92ObZxYlPFERhLk9jOfef3mXtnamrLqC4jr6ernss4poQkA58SMHA==",
+                "origin": [
+                    149,
+                    144
+                ]
+            }
+        },
+        {
+            "id": 411093721,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:05:44.827Z",
+            "updatedAt": "2020-04-06T03:05:44.827Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIZQBzCwQYk85YUlTMwMFp6ujiGVMx5eyUwi9lRwPngnf+X5uo7G6Ts3TZ5qlT43IQLi5+/5mZgaJhRqfB3X/83jb4Mx/XHBF8r1Yt6rKn/IF945JdzOIvQS95wVqFXruHsQi89Ox2U5k7pUr7gyTRVeMUch6dHNNUDLBu7lj7iKJlkcTSokMXKc07SSgumuRN6lC9wPpri1bbTMz/Ad07SSwtjJlmv4zMFXwRYnetx2O/VPlPwOZjZfqkwjaXKY0ERyMgYqws9HmARqyl9xZPvLQyzOuNb1R710uD7peoQL/efmntd15bMkCz0E8zgbJy2Uz5ogapLlMMCVhYQ4aKl7mfZKCYAdBl3R4jfgqJHU4odn4KkitaBXHuPU+USWGURk67CBSYlXaULQkpTP9+dWm02wYNxvYvQKycmXSWumln5/D+9jAw7eS2AYcng6ernss4poQkAKvOQBQ==",
+                "origin": [
+                    255,
+                    237
+                ]
+            }
+        }
+    ]
+}

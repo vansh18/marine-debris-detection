@@ -1,0 +1,80 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411108840,
+            "classId": 1400964,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T06:13:38.905Z",
+            "updatedAt": "2020-06-24T07:28:41.019Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "metal",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:13:07.345Z",
+                    "updatedAt": "2020-04-06T06:13:07.345Z"
+                },
+                {
+                    "id": 27641174,
+                    "name": "overgrown",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:13:07.345Z",
+                    "updatedAt": "2020-04-06T06:13:07.345Z"
+                }
+            ],
+            "classTitle": "unknown",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    152,
+                    90
+                ]
+            }
+        },
+        {
+            "id": 472457220,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "fulto081",
+            "createdAt": "2020-06-24T07:27:56.961Z",
+            "updatedAt": "2020-06-24T07:28:09.205Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "fulto081",
+                    "createdAt": "2020-06-24T07:28:04.023Z",
+                    "updatedAt": "2020-06-24T07:28:04.023Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bottle",
+                    "labelerLogin": "fulto081",
+                    "createdAt": "2020-06-24T07:28:07.422Z",
+                    "updatedAt": "2020-06-24T07:28:07.422Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwB1AAr/4lQTkcNChoKAAAADUlIRFIAAAA0AAAAEwgGAAAA39EuZQAAAJtJREFUWEftl9sOgCAIQOP/P5rmFo5MgwYbwuqZxMPxgnA4fIiIb8MAADikUQ1hTiTBqGZxBUngY65ZvAnIE+YLOMW6AkXDrKCWhnaZsNYc2boBZYPgsPWBMttpprqh7CDjHoMfSHvsBMXVM9QKWWnZlbmHeufAl3oFU4/WJzuUqdsmuzsUYdr6WE/aKDD+jHAxZC2E9L9UKA50AoCIT/T3IHzdAAAAAElFTkSuQmCCHYhYDg==",
+                "origin": [
+                    241,
+                    191
+                ]
+            }
+        }
+    ]
+}

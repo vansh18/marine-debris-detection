@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411091080,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T02:23:33.633Z",
+            "updatedAt": "2020-05-21T20:37:54.272Z",
+            "tags": [
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "unknown_instance",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-05-21T20:37:00.438Z",
+                    "updatedAt": "2020-05-21T20:37:00.438Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBagGV/olQTkcNChoKAAAADUlIRFIAAAAwAAAAMggGAAAAGspYjAAAATFJREFUaEPtmlESwiAMROX+h8YpM3QgAglBINvir9Luy2YxUt1n4st777nLO+cc95nW+0OL6YUlgptiFDB/ARgVXoKSOjMMMEN8BJJADAHMFC+FMA9wgbScUAOsqL7EBRXASvFpwEtOvAtgV+VbrdTlADTAbvG13UjkgAXx7wWwUn21A5YAShBsBqABrInvduAAjPxWrKyl81AzA9AOWBTflYEDMKH/S1NpNQNWHaBtVASwLP75ANarT3Pw00LQACji0xxkDhyAiXs/vXSciYIDSJWnB12wALcDyNUPYT4AC4NbOug9DmwyINz2CjLsLvQIgAARWwB2N0IGuDOACJHNQulOgtJKVQDrw53oZM6iC7WH3eaPVbj/S7DPBzTftKMOcqKzmUgjULsmgvUI5O71BYumyCv9gKD7AAAAAElFTkSuQmCCYUeX+g==",
+                "origin": [
+                    213,
+                    205
+                ]
+            }
+        },
+        {
+            "id": 448863919,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-05-21T20:37:18.091Z",
+            "updatedAt": "2020-05-21T20:37:54.272Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "crab",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-05-21T20:37:46.061Z",
+                    "updatedAt": "2020-05-21T20:37:46.061Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwB9wEI/olQTkcNChoKAAAADUlIRFIAAABJAAAALQgGAAAA4hZGkAAAAb5JREFUaEPtmVkOwyAMRMv9D01FJSpCDN5YDf1MY4JfZowh7qP4ee99DHfOOcVQS4eqEkshWYYlhgQBSuVgSVndIAVgVkB1hWQFlBhSAIBZzkqdUkGigtrddmpIJ4BqAinaimq/UlO0quJekLiJ5olx43cApobUu1VeQV0PSK1U0BrcbFBbQJrdb/0hraqiXJVRVdL5SlT5gyR9YGtbjR6PCuxoSCWVvq6fqiJO6+E0kCC5asYbbTcqKDEkzM+7w0rzE0HCAJXe0ChwrXYBcZxX4Q5/1JKRAqpZqTU8bI7U5z0g5QmMhsR5vqRu1aBhwEIseAowG1LP3k2y2LA2uJiMJW+ZEoO9bcoYtY8U2PhHQoKayKp7qPVglop6Wg86g4c+uJKVNBPSCFC1kwa0cM+GQ1V6rgqszkB1rJRr0zNubgGV3o8B0DSTEKgtIVHsJ1nqS5bbFhIGStpAmlISBqlWiGux5iBpQJXq2oWUrBRHQcLUxN2fmlTShURspCSnFtduCdxrN+SboaRXMlmTJFaLQoN2/OCejmj7JW/TAOIkdOS2hAPo17lzA1a6n7NCaeZ9IRHobQ0pbyR7HRB+AY1XPDFpHP+EAAAAAElFTkSuQmCC/4Ta6Q==",
+                "origin": [
+                    304,
+                    167
+                ]
+            }
+        },
+        {
+            "id": 448863939,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-05-21T20:37:54.017Z",
+            "updatedAt": "2020-05-21T20:38:01.346Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "crab",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-05-21T20:38:05.827Z",
+                    "updatedAt": "2020-05-21T20:38:05.827Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBIQHe/olQTkcNChoKAAAADUlIRFIAAAAhAAAAHwgGAAAAaZSksgAAAOhJREFUWEfll1EOxCAIRMv9D+1GkzbGIDMg1mza3yo8YZhauYinlFLuZSIixBbXEipgJoQWC0L0m/rjRStyDGJ2kKfFqHkrlUDJt0KwybdBeAEqiClMK+BMmMchQgBozFDQcT9arw1BjRFux+gZEYCmhywINObWewhRN0dPyIDdRQjbNpMEVYD2iV3V6KUAK6GdJqNFSxDZAI9jZgT2aGScytaONyE0W5DTAK0dn4Kw3PkVTaDPw3afQADwUjMbO0ZHTHKXbfcwCMCT/H8hdlTBrYnIxZexc9d0rPwImXcLhnQmzIgItXw/eaukDF1boY8AAAAASUVORK5CYILBSXXz",
+                "origin": [
+                    196,
+                    200
+                ]
+            }
+        }
+    ]
+}

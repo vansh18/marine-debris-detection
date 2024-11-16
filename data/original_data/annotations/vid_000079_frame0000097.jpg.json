@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411139555,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:14:10.290Z",
+            "updatedAt": "2020-06-05T20:57:20.369Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:14:10.214Z",
+                    "updatedAt": "2020-04-06T08:14:10.214Z"
+                },
+                {
+                    "id": 27641174,
+                    "name": "overgrown",
+                    "value": null,
+                    "labelerLogin": "fulto081",
+                    "createdAt": "2020-06-05T20:57:19.361Z",
+                    "updatedAt": "2020-06-05T20:57:19.361Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "container",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:14:10.214Z",
+                    "updatedAt": "2020-04-06T08:14:10.214Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBKQHW/olQTkcNChoKAAAADUlIRFIAAAAsAAAAMggGAAAAJ1g56gAAAPBJREFUaEPtmlEOgCAMQ939D43BRIPC1BKCq6mfOrQ8OpyCLc6RUkretdZ5MzMkvjf2eAgqsPeBaLsriPCCyw5m8RaVrDcSEox6FI0XYZQYGk9FmG6W4BScPcQyF2+EJRhNeyD+IMxAeXcDTfFDJzi7gMoSEgwke3eoLNGN7mVDbsIsL4/Tv4ToRdDJEiL8MpHQMCpLbG+7sofyMDreD/FKusFAq9uJsAhfCMgSsgSzJarP/OjVmgTPSLiqWotsi6YlogouV0Pd9eFItfE/Be9J9DVpd3H8Lsu/Et3a0gDtcZgp3Nt/AQkePddmAOjGkBXU6cgXohY0hAAAAABJRU5ErkJggqqCfUE=",
+                "origin": [
+                    255,
+                    0
+                ]
+            }
+        }
+    ]
+}

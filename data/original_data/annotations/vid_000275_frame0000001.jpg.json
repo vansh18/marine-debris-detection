@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411094664,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:16:14.333Z",
+            "updatedAt": "2020-04-06T03:16:14.333Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLvgDiHgw1I5k7r+8jAwLja08UxpGLO2+vek5oCRFgdv+9/+a6TuZ3jvXPiMyYey3tch65zMyCDil37m8vq/R+8zdii1CZtKb2uInGx9kMuCTNBvSM9HWF7NswoUExL2XKo1dWF2/FQq8RFpwkZim5bBFRiOKREgYoVHzpNKFDMSNnxqNW1hdtx8WFRfR2FmA4hPRZO8UMt3ImHWi0uOs0pUPTZIaASxfHpWKvC/1LFFx47lNpm/zSLETzMG8MZfmDDyY6Co9zdvVzhezYgmRZ4qFXhotOZFRmt3N2dYovADtB4CHLAsdtieS9yZjC1HU07XnXtXWyfxWcf422//vw5/35b+tSP877oTD9jM29mzmHB+/+uGb9/uWmu87kE5XcJx2Ttfim8PRzbs+fofEsP6Y23O8Lq/wEFshbJnrBbo3SHM+dwzqJWBbCfPHaAPCmkC/RIUwvIagWw1VBhPVzCnWJNR7gcF4FcDhLegsUQsNlf+HNExc7/ErRfAYoGT1c/l3VOCU0AUSHBQQ==",
+                "origin": [
+                    242,
+                    209
+                ]
+            }
+        },
+        {
+            "id": 411094665,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:16:14.333Z",
+            "updatedAt": "2020-04-06T03:16:14.333Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "fabric",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:15:52.750Z",
+                    "updatedAt": "2020-04-06T03:15:52.750Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "clothing",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:15:52.750Z",
+                    "updatedAt": "2020-04-06T03:15:52.750Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJGQKzAwQYkAxS1FYFUqqeLY0hE69sLjlwHFHhcLu78v/Ty1ACvllvH2vj+64om7RNiYGhQ0fRLe36ztjtnpdZ+/h86a5SVkoWNIlx4zBQF0wwFuR2nHl6t/G7Pz4zGufODv34raVzKKL343rvAU2pPTqmxMDTwsc+6vmzB1E9blwMtZPB09XNZ55TQBAAGFziU",
+                "origin": [
+                    225,
+                    153
+                ]
+            }
+        }
+    ]
+}

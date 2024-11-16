@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411093380,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:01:44.868Z",
+            "updatedAt": "2020-04-06T03:01:44.868Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBglAeyLTnYgCT/Vf1LQOqnp4tjSMWct1cM+Q4rCLg6vqvPDHItmnhEjNHuhvFU7/dM60UYCIKE0K3XZv1jf+CWtfhLPXO3BdvDv3elpsUymVTtE01ryT1TMeHkccvqfbFn7Ngj3hnO+/s69llNl3/6h7c5Ueentc6R/ZRXd7Ykld8gev32PVu+THK3Ppch/ybpzWp5nb02C2J3yU9fMp3ly/R3p9xfLmV4vNQ62EtQukLpIKNSC3uHgJyCU0UDx0NkzkdGpSNAjqyCU01Dh+JHQc0HPiZ2bxZeb31V+fGXHbPQv73MDL5xN5qXnfHaxt8L8oCnq5/LOqeEJgAHWG63",
+                "origin": [
+                    193,
+                    264
+                ]
+            }
+        },
+        {
+            "id": 411093379,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:01:44.868Z",
+            "updatedAt": "2020-04-06T03:01:44.868Z",
+            "tags": [
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bag",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:01:44.777Z",
+                    "updatedAt": "2020-04-06T03:01:44.777Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtINQJzMwQYkg99xPAdSezxdHEMq5ry9fZv3kIGIy8Hb9ZcDGJi8D76fu1Lh2jx761AGNCBdZbrmnx1bJq9+22lbTgeO6T/SawRjFrgzKFlErGdwKVgw73H3AwXlNvEDim59+k3MHAo3ej66bjBkbBF2sAASDJeVImr99s0QbeAwU2so2MwkcPAYi4Afww7xhBqW1efdmxk+OKjMZTjEqTDj42HJ+as+1TPYS8znb2NHd0jCRPMH9XfXF2rwq4C4nq5+LuucEpoAENRKXA==",
+                "origin": [
+                    257,
+                    98
+                ]
+            }
+        }
+    ]
+}

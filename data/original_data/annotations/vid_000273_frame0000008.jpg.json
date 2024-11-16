@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411093871,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:07:06.145Z",
+            "updatedAt": "2020-04-06T03:07:06.145Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "metal",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:07:06.075Z",
+                    "updatedAt": "2020-04-06T03:07:06.075Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "can",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:07:06.075Z",
+                    "updatedAt": "2020-04-06T03:07:06.075Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKWQKzFwQYkOaM+bwBSBZ4ujiEZjW8vbOQ9YMDD7Ph+/5bLqwITFZRyH9UzyV1XAoLo3U/uGV3KK3r/ay3fD5s/It/uMAYfyF5w2cE6iHGL01QH7iDeLQ6PJ+opnBBZwsNhxPrC4VRj1greFQ5RhVsjInT5rohyv+5qFQSBzl8MHU1TzpUuk7wFtJvB09XPZZ1TQhMAgiE8rg==",
+                "origin": [
+                    212,
+                    214
+                ]
+            }
+        },
+        {
+            "id": 411093870,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:07:06.145Z",
+            "updatedAt": "2020-04-06T03:07:06.145Z",
+            "tags": [
+                {
+                    "id": 27641179,
+                    "name": "plant",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:07:06.075Z",
+                    "updatedAt": "2020-04-06T03:07:06.075Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIeQKzPwQYkHWR6ljIwMAZ5ujiGZDS+vbHR93CAQPvHngmCRkzKAUFGTjOa2DoZMySUTJ0WLV6SyuClotbBIsTa2N+kMHNycfnB83V+n/5P3Zi8//cTi0I1FR8rjdI5WUaNixi3Wx47d/SV0Z36e7uLF3rx3Jx+yfhN7IJ9f86tdWBk9QpY0MDEKqKxAMjm0ghwaBQCsTm5tqiyFr3gAoo0QWQ5uUQCFNrtkhiBwuUT8hc6bJx9zYPr2/GLx9T/OO/ada14XZSZbXujUZvcChHjw5wfUssimS4rTfzV9XSucmWcdUnJm8rk6ZUXLZI3LDzqenpb+XMJ4wSzG4vaWWy2slTF5u/O3VMWW732KkO/2oX05NuaM/OX17LpGH2f3cxqozHh8J1skRNMeqInGOfMtlt9K1tK9MENlqrVe5cFMq7zWdAPFvD5rsBesN6BLyHrl072+sySH5VLKhjfvfgx/aj53c1zyvtPvpkKDGQGT1c/l3VOCU0AtL6hBQ==",
+                "origin": [
+                    0,
+                    169
+                ]
+            }
+        }
+    ]
+}

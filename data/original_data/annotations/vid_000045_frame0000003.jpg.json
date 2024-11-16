@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411140167,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:15:53.353Z",
+            "updatedAt": "2020-04-10T15:02:10.008Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "fish",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:15:53.262Z",
+                    "updatedAt": "2020-04-06T08:15:53.262Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBNAHL/olQTkcNChoKAAAADUlIRFIAAAAqAAAAJAgGAAAA/8moKwAAAPtJREFUWEft12EOwiAMBeDXxMt4/7t4GRNrWEJCFKUtbcd0/hXDt8eDIWHwYWZ+HUJENPqd9/fbhD3MaKJsLDHzHcBlBNs71QJ9ADAtZWaqBfrWQWm62VBzouWBsrDmjmZ3tkBvAK7S5f40LjrZr5tI299IrGi3rwAWQetya8De6aqg2reYJ1YN3Svd34dm18CcaHueSjfZTGf/C6qpgTVVl0Q1UOtFxg0ajT2hktuYpq+uiWrfWoeB1geTgEMSjdhYS0AlR9Yy0FENTqi2p+1x1ttcYYnOQHs1CIXOYttkw6Fe2OWh9ehKgXqkegjolqrkluM1RvrfqjffEyQtkB148JiDAAAAAElFTkSuQmCCWiyN1g==",
+                "origin": [
+                    171,
+                    234
+                ]
+            }
+        },
+        {
+            "id": 411140165,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:15:53.353Z",
+            "updatedAt": "2020-04-10T15:05:05.720Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJwBIwHc/olQTkcNChoKAAAADUlIRFIAAAAuAAAAKQgGAAAASrwbjwAAAOpJREFUWEftl9EOgzAIReX/P7qLJhrSYYGW6WVhr0U8vR5ZpS3411prWksiIq1GW19uwG9ggT7rV+Fd4B4wLTG+PrMJCPB9E154M/iv0p5NHgrcswkV/ImkR+/DnUIF7pki3lopdTXx/SZv6yJNnQL3Pv7Z+lObNIn3R4UCn3303utKFW9iUfXleFSSWh+z4wj/mtKpUVUlJTgaND+zDBNPCY4MfSQvvcXo0AWuzd6I9f4r6H9UQfTb9OlW4BFisx5Dx1HTHqqCDJ0avIe/xiF64gUePDRM7fhkOVTJoImoSkrwLNBfiWcF/wBYhKQmS8mzQQAAAABJRU5ErkJggtIBfKA=",
+                "origin": [
+                    402,
+                    229
+                ]
+            }
+        },
+        {
+            "id": 411140166,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:15:53.353Z",
+            "updatedAt": "2020-04-10T15:01:51.754Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "fish",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:15:53.262Z",
+                    "updatedAt": "2020-04-06T08:15:53.262Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBEwHs/olQTkcNChoKAAAADUlIRFIAAAAiAAAAHggGAAAASf/MFAAAANpJREFUWEfV11sKwjAQBdA72G/BBbj/Zdl9+DEyYiCKsZlXEvtZSnu4N68SADDzBcAO4ExEJPdGX8TMVwA3AKfy8RkYgdwBbK0ERqEEwr01ZKLWgbwG6/RUnjNEU488n1HRWpAVUnlbvDQVRddjhkSPla/L+YxkmvvKaEwIJKKmMIgX83PL19SzFMRzjDg8BGlTsWL+B2JZ/uvzTe8KfJjI56HJUlUPRg3JSsgEKSlZ0mnV5oLUL7Wg6srCIJ7KBBQK8VSWArFUlg7pRQ2FtKpLGyO9f45lpgnkAZqweBMm3hpbAAAAAElFTkSuQmCCZUNykg==",
+                "origin": [
+                    244,
+                    2
+                ]
+            }
+        }
+    ]
+}

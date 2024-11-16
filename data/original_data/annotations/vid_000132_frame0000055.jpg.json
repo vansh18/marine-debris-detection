@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411143691,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:32:18.566Z",
+            "updatedAt": "2020-04-06T08:32:18.566Z",
+            "tags": [
+                {
+                    "id": 27641179,
+                    "name": "plant",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:32:18.489Z",
+                    "updatedAt": "2020-04-06T08:32:18.489Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBLgLR/YlQTkcNChoKAAAADUlIRFIAAAArAAAAGQgGAAAAqO/XZgAAAfVJREFUWEfNlz9rVUEQxX9HRUFsRCy0VTvBIBIQKwXBOiDYCDbxM4iipdr5AQykCdjkG4idxsrCQLpAIGIjgoUJkfjnyFz2Pl7UvL379ubFbd4rZs6cOzszZ1YUHttPgdPACnAs/X8tab4QqthcXTxsHwI2gcMZ+6/AeUnrXXBLbbJkbZ8BVguBn0i6X+iTNe9C9jsQmS09dyU9L3UaZT+SrO2LwLuKgI8lPajw3+GaI7sEXK4JJil7e13xc2Q/Aye6gu1ityzpQiVG454jGxPgaA+BbkparMXJkR23uf7ktS3pSO9kbd8A7qVhfzaX/QICc5JmC+z/Mh1k1vZV4CVwsAZwhK8lHajBbsj2MKJKOGwBb4E7kj6UOLZkvwHVNVUSeMj2J7ANRH9EM8fN/gLWJJ0bxpTtk8CnMQNNwm1J0pVmdNm+BbyYRNSKGAuSbgfZUKhQqv/6hBK2NRs10pss7tFXX2rJvgKu7VGQvmAXh+fsxyQEfYH3jfNox9XbjnXu4T/GmPe7TAY12yUFtmMeVilQlzi72DTqV9RUtiPD+3HeS5oqIpukedKEBztFMdlEOJ46UxMoixippyQ1CjsW2bYObIeWPwNmgOOJfGS+1fpYWr4A8RuyHg/PH7E7pWf9BrAce0D6+OnU3LEnvJF0fbjmfgO+945s14fXMQAAAABJRU5ErkJggkVR/ek=",
+                "origin": [
+                    367,
+                    200
+                ]
+            }
+        },
+        {
+            "id": 411143692,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:32:18.566Z",
+            "updatedAt": "2020-04-06T08:32:18.566Z",
+            "tags": [
+                {
+                    "id": 27641174,
+                    "name": "overgrown",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:32:18.489Z",
+                    "updatedAt": "2020-04-06T08:32:18.489Z"
+                },
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "shell",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:32:18.489Z",
+                    "updatedAt": "2020-04-06T08:32:18.489Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBTAGz/olQTkcNChoKAAAADUlIRFIAAAAYAAAAEggGAAAAQewengAAARNJREFUOE+1lLFKA0EURc/Vws5CiDbaWIkgKezEwkp/wB/wM9JYWPgf1n5A0E4Q7ARtROy00kYhTUiRK2/ZwSwsm5jMvmYZ9r173ry5MyJD2H4AtoE3SYeTkqrTt70H7ABfwHr53QA+gQvgAFgGauuBb0lroV1JsP0BbGbYVEiMJK0UgLLjp4aO5mWeJ0CMojOvSkPdMAHcgngxHNk+Ba5bAowCEI55bglw3+qIFFG66AY4zryLE0m3CTDOaNGBpNXUbM4RvUqK21+JHICw+Jmkq7oRLwoonoOms1sE8Chpf5oxEqAHXE5LLv+/SNqdMffvNbX9Dmw1FN5JOppVuOKitLAdd6EPLE0IBbgr6ee/4pH/C7NwXTL8KljhAAAAAElFTkSuQmCCx6uOdQ==",
+                "origin": [
+                    23,
+                    132
+                ]
+            }
+        }
+    ]
+}

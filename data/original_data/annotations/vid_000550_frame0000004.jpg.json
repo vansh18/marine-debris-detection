@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411097625,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T04:06:24.269Z",
+            "updatedAt": "2020-04-06T04:06:24.269Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:06:24.183Z",
+                    "updatedAt": "2020-04-06T04:06:24.183Z"
+                },
+                {
+                    "id": 27641174,
+                    "name": "overgrown",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:06:24.183Z",
+                    "updatedAt": "2020-04-06T04:06:24.183Z"
+                },
+                {
+                    "id": 27641177,
+                    "name": "decay",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:06:24.183Z",
+                    "updatedAt": "2020-04-06T04:06:24.183Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "tarp",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:06:24.183Z",
+                    "updatedAt": "2020-04-06T04:06:24.183Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    159,
+                    13
+                ]
+            }
+        }
+    ]
+}

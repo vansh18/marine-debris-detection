@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411153824,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:37:13.292Z",
+            "updatedAt": "2020-04-06T08:37:13.292Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJwBCwT0+4lQTkcNChoKAAAADUlIRFIAAACkAAAAYwgGAAAAFVirTQAAA9JJREFUeF7t3Ot2mzAQhVH7/R/aXbRxihNgRug2Z/T1bwQVR5vRJaw8H/wjgUAJPAP1ha6QwAOQIAiVACBDDQedASQGQiUAyFDDQWcAiYFQCQAy1HDQGUBiIFQCS4F8vV4vK/3n87lUJlYeo3+eOnwPwKvAwTma4yPnwXgtxKNhAOcYnOkqZA+M76EAZX+UqUD2xLgfCmD2g5kG5CiMVMt+GLc7pwA5GiMo+6GUBzkL49+3mSOi5jIBWREpICvCO7lUGuTM6si03R6j/BoSkH1QzLwrFbJB+kzdDUL8uoUsyAjVkbPJdhC/l0DtbznmjoAck/Po/4UK2Thxpu+6QAFZl9+vqwFZFygg6/I7vBqU90OVBBlt/XgUPyjvoQTkvdxcV4HSFdNHI0CWZ+a+ApDuqL4bArI8s6IrQFkUl97nZwrrRw7MyxB+5HX/0jlXqoHcUqJK+q3ITdmA9A+uYkspkIoYqZBlrwUgy/K63Zpp2xcdIH05VbcCpC9CQPpyqm4FSF+EUiC3R2Id6RtY1VaAHDRyVEhf0HIgqZK+gVVtBciBI0eVtMMGpJ1RsxaAtKMEpJ1RsxaAtKMEpJ1RsxaAtKOUBMnGxh5Y1RaSIFXPIjckVMnrVwWQg0sJIAE5mJwROH/C7zIgyQrJGjLUO9a0M4BsGqd9M6bshFM2FdKGr9pCtkKqoqRCJq2Q78dSPAIC5TlK6QpJlVSdmBODVERJhUwOUg0lIIOC/Ln+qxkopbVkzXPmm6Q/n2jaGtICVDpo1v0iDWTps0Xqe+++hAX5fnDP4Clh3J7L80y9Bz7q/aeAvAPoahDv3G/mgAAy2BqyBaD9oLa430iggAwCUg1OL6SADAASjP8HAZCTQYLxx9EG30Seiuy+qQHj7+ypkBMrJCCPwwflSS69Fu7v+wISkCXGmLJL0mrYlgo5qUKqffjQ0NzlrQA5ESQo2dh4X/TuU/a+I6wnOYu0YA4FyUYHkCFBMoXzxc8ZzCkVkkoJyJAgV4bJLnvyLttaO6y24QFkcJCrVUtAioBcASYYz+fLqZuaVadxQIqCzFotASkOMtu5JSATgASltcDJ8fPQa8ijiDMdD1EpDz46UXyvMqHc8gfm7nf8gIyRACj/jYPclL3nk61SUi3FQWbb6OxftlUrpnSFzHpOuTLMFCAzV8o3zlUqJiBj7GnMXgDSjCheg4ybnNWm7zQVkvVkvAJxp0fpQGZeT64wbacECco7tSnGNYCMMQ7uXmSvkmlBZv2NDiDd7278hhl24YCM7+yyhxvCbRAzYFzhCIgpW/SFy1op/wAlI4BziVyBLQAAAABJRU5ErkJggjJn1+4=",
+                "origin": [
+                    300,
+                    170
+                ]
+            }
+        },
+        {
+            "id": 411153825,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:37:13.292Z",
+            "updatedAt": "2020-04-06T08:37:13.292Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:37:13.221Z",
+                    "updatedAt": "2020-04-06T08:37:13.221Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bag",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:37:13.221Z",
+                    "updatedAt": "2020-04-06T08:37:13.221Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBmQJm/YlQTkcNChoKAAAADUlIRFIAAAA4AAAAHwgGAAAAsi8OkAAAAmBJREFUWEfdmL+PTFEcxT+H+LmETWQVFLKJRCQiIiIRlahI0Cj9AQr+AYlSTaGQrFYhdCqhXolmV6FliUL8CBK7RpgjdzIj49mZd+99b2Yer5lizjn3nHu/793vvaLiY/s2cAbYBhhYAk5KelVRuha6clVsLwAHh/DfSNqdq18XLyug7RawPsJEG7gj6UIEdiSQ5IC2QxnmPIF3S9LFHHIuJylghXBFfy+Bc5IWc43H8qID2g7lFo2PNdDF/QQeSjqVyCuFRxm2/RaYKVWrBxBKeVZSWOXKT2lA2yvAxsojpQu0JFUed2hA2z+AteneamUsSdqTqzgwoO1lYFOu8Ah49ySdT9VdNaDtL8DWVLEx4BckHUoZ56+Atp8BB1JE+rDhA1H6Xmdq92jXJF2J1fjDjO3TwINY8qRwkqInsRjwO7BuUsYTxv0qaUsM/ndA2x+B6RhSQzDzko6VeekEtP0amHjnX2a2+H9Mqcr2DeByqnhD8CuSNg/zEgJ+AzY0xHCOjbakgc1ICJh7/MkxMzLOoHL9bwJ2r0tmJL3vn8UQsAn9Zp0rGyrykqSbQTQEfAIcrXOEhmh1etfeNhEOnGsaYqxOG3t7AWeB5//413S1iXlXbNWuA6EfDQfNF8DxMTTPda5YUatd2rQ2+OgUMzEuDRij0o+xvRN4DOxrwG1Aq/aAwybE9iPgxBjLfm6sAXvhbZ8F7o94hZclTU0kYF/QI8BdIPtSaUDFfJC0o7PRp75jo8LbngP2d1c1dFfh4D0FfAK2d3/DXdFnYBcQMOFmPEzO4e4+Hq5brkp62vP5CzrvqaqiDfI7AAAAAElFTkSuQmCCWsEuFw==",
+                "origin": [
+                    162,
+                    136
+                ]
+            }
+        }
+    ]
+}

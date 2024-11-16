@@ -1,0 +1,80 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411143704,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:32:18.566Z",
+            "updatedAt": "2020-04-06T08:32:18.566Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:32:18.489Z",
+                    "updatedAt": "2020-04-06T08:32:18.489Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bottle",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:32:18.489Z",
+                    "updatedAt": "2020-04-06T08:32:18.489Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBGALn/YlQTkcNChoKAAAADUlIRFIAAAAfAAAAHggGAAAA1PLFnAAAAd9JREFUSEu1lrFLHUEQxn+fMYJFIAbSKEiakCpJYWUQrEQRy1inTsgfEEibxjpV6nSxsHqBiIUgrxW008beQiEgGKJO2HAr9+7d3e7bt7fVcffN983MzsyNKB0zOwAWgQfF61tgR9JmGZfrWZ7IzC6AmQbia0nTuUQ9z39xMzsGXkaQ3wDXwHdJHyLwrRAvfgfcZyGS9K+kqUhsLUxm9gboJ5LcSppMtMWJLwP7qQTAoaSFFHufdksxLtncSHo4KocXPweejmpcg+9LWorlKbdaStHV6dxJ8nMiXO1Fu30FPsZ6HcJJCnbPAMDMxr37AZ9CDlTF/wBj9W4lI62FWBV3ReeKL+fpSdqoIxy6l8CMT3KqKf114l+Az0kqzUaXkp5UP9dWZO7CK0TXJP0qO9AknmvoVINdkbTnXzb2YkfRO91dSavuoU0818Srq4QtSZ/axH8AnaxPbn+RNNE6As2ss+hd+4XE3WrlVqwuznxw+JvZOtDrQH02KO5Fc1d/MO3laM3sLbCdKwMjiRf//FfAUQYHjiW9jk57Kf3PgZOEVfuewrVZ65AJRWdmZ8CzEK7y3S0rjyX9Hku8uIb3wBbwKMKJU0kvgj+WCKIhiJnNAe8At736begK+CbpZx3nP+iSk0+vRqI5AAAAAElFTkSuQmCCoV37zw==",
+                "origin": [
+                    65,
+                    263
+                ]
+            }
+        },
+        {
+            "id": 411143703,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:32:18.566Z",
+            "updatedAt": "2020-04-06T08:32:18.566Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "paper",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:32:18.489Z",
+                    "updatedAt": "2020-04-06T08:32:18.489Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bag",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:32:18.489Z",
+                    "updatedAt": "2020-04-06T08:32:18.489Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBpgJZ/YlQTkcNChoKAAAADUlIRFIAAAAdAAAANAgGAAAAdjAz8QAAAm1JREFUWEfFmDuLFEEQx/8/H2jiC/EQRcTAxBd+CgMFEz0wOQRjA018fAFBwcDASAQRAxU1048hnHLGiosHvjjUQPHOklpmZHZ35qa7p3eccLeqfv3vruruahTxmdlWSSeB+xFuE6a0OZvZYUkvJa0bszVJV4AbbTHG//8HLYI/lLS/ALQOqAj2AjgRAx4GNrNLkq7HOI7ZHgFeh/pTKHwV6tBg9wY4GBrDoT8lbQh1aLBbBtaHxnDoH0mh69cUNxrqWdj1+wTMhAZxpcuS1oY6NNjNAk9CYzjUk8hrMfVbBHbFODv0nqSzMU4VWwPWxPo6tMuaRtVnObgu0F/AxliVbp8MBZLLLBkqaR/wtlelkj4Au1Ohv2uOrZBYSZlbrumipJ0hlHGb1HX1Nb0r6Vzf0L2S0hIiMYPLQzxpg0ieXp/WxF0pPZE6QPU/lPp40/beLkol3QbOx2Z+p0SSdAZ41Df0FnChb+gCcKhvaFLZdF1TF/kUOB2jNgc0ul6zQCVtA5ZC1eaC/gA29Q2NmuJcSl3kN2BLiNoS+tXXJcShxSZomqudeNKZWjOI78Dm1QZXhQ4kJd3uagDPgFNN4JELc+Jh3hR7DnhQ9+c0oc6bB45O3CKrP5jZR0k7MiRUNcQSMJKkE/1I5iku4SPJVQddkHQgs1oPtwIMH8BqO68pqXXesI6boNckXZ2CWg8529hjTimpHDpYtbE1s8+StmdW/KW1mzYzvxU8zvDAVY79XSu0tDSz55KOZ1B9ORhagV+UdDNR+fBlLRo6toO5+mPFi1tbrAGwp7FOu0yhmXm5zRXd/Yqk95LuVF/A/wL0efyf92rjhQAAAABJRU5ErkJggnhCNRA=",
+                "origin": [
+                    239,
+                    166
+                ]
+            }
+        }
+    ]
+}

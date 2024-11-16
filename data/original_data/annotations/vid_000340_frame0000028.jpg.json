@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411091842,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T02:38:49.997Z",
+            "updatedAt": "2020-05-08T05:07:41.144Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "fish",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T02:38:49.923Z",
+                    "updatedAt": "2020-04-06T02:38:49.923Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBKwHU/olQTkcNChoKAAAADUlIRFIAAAAbAAAAFwgGAAAA+hY0LgAAAPJJREFUSEu91bENwjAQheH3CxagYAREwQb07IBYgYYeCYkJ6FgBMQENPQMgpWAGChaIjBIpUhBxfI4hbmPf52efFfSH4ZxzTWX5heUrXq9NMVKxEFQ3krAYqAjVGYuFOmNdoGgshJQFW/rAfIypkCmZBQklqjrem8yKWCFvsgjoCYytb7UxmQHLgaEVaT1GAzYCXn1gV2ARC33dmSFR6zsKbeDjzgzYA5iGivq+l5gBqdZnwKwzFgEVxg2Y94WtgWMvWOrPFufcTtLesNszsDTM806pGuQgadNS6ASsUqCmd5ZJmkgaSMolXSRtgXsqVKx/AxXqaRQvFF7hAAAAAElFTkSuQmCCqJx1PA==",
+                "origin": [
+                    250,
+                    154
+                ]
+            }
+        },
+        {
+            "id": 436834780,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-05-08T05:07:40.916Z",
+            "updatedAt": "2020-05-08T05:07:45.656Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "eel",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-05-08T05:07:51.618Z",
+                    "updatedAt": "2020-05-08T05:07:51.618Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwB2QAm/4lQTkcNChoKAAAADUlIRFIAAAAqAAAAFAgGAAAA+7OvhgAAAKBJREFUSEvl1UsOgDAIBFC5/6ExEjUWqWL5iLELk+5epgPCVOwgIh5JAADLnT5vH44rA72C9UJLSXQEtoFDn94C48D97tlPDyANzjpATVcrQCUYd7l1VJOmBhQ6TBLSgpKw5kR7C9qzUuaFn5GkeeozkcOJ9gbHu5en9aTtmeaf7N3N5uk1q+UOEJkmPf0XkP+CRj+5uaNZQHGPPulrNnQGb25UEQBP7ewAAAAASUVORK5CYII9r1gp",
+                "origin": [
+                    217,
+                    182
+                ]
+            }
+        }
+    ]
+}

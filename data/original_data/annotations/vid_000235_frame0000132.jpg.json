@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411105953,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T05:55:22.392Z",
+            "updatedAt": "2020-04-06T05:55:22.392Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "wood",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T05:55:22.299Z",
+                    "updatedAt": "2020-04-06T05:55:22.299Z"
+                },
+                {
+                    "id": 27641174,
+                    "name": "overgrown",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T05:55:22.299Z",
+                    "updatedAt": "2020-04-06T05:55:22.299Z"
+                },
+                {
+                    "id": 27641177,
+                    "name": "decay",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T05:55:22.299Z",
+                    "updatedAt": "2020-04-06T05:55:22.299Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "branch",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T05:55:22.299Z",
+                    "updatedAt": "2020-04-06T05:55:22.299Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    0,
+                    179
+                ]
+            }
+        }
+    ]
+}

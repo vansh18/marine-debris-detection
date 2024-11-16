@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411155447,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:43:51.888Z",
+            "updatedAt": "2020-04-06T08:43:51.888Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:43:51.801Z",
+                    "updatedAt": "2020-04-06T08:43:51.801Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "unknown_instance",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:43:51.801Z",
+                    "updatedAt": "2020-04-06T08:43:51.801Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBhgF5/olQTkcNChoKAAAADUlIRFIAAABWAAAALAgGAAAA/+9PUAAAAU1JREFUaEPt2NsOgyAQBFD5/4+msanGNIJ7mUVdps900x7HAS0LPyECJWQqhy6EDQoBYQkbJBA0dtrE1lrrZlpKgTvABwYFADL2iPk/EI2bBraHJr0qSNxHw25Y2x9G4PWQU8JGo41O7ZDEPgVNgotKLRz2TYgtaAQuDDYD6BHai0vYRmwfAZstras1YSU7knGNB9ddBRnTinjUJWwnzUys8VaXfM2Ky8Re6N4Gu/6uzD1rPSEwsYI+sKTWBZs9qZ7TgQt2hhq4pQqY2HaPuBJLWMIKtqj+Eu0GxsQKyQkrhNIuGwo7y6nAcjJwVQFhgzavmWC1qWVihWXLjhVCaZcNh81eB1rQ/f2C9sqdrc/6BGZF/fYxYc8FPKiEbaTKiwqBzVYDCFQ3LFH5gHC5laCSCjsVZEgtGtVdBW8/w0aAQhKbIa3adwCXnfJb8AE3PKAt5raIogAAAABJRU5ErkJggmK2oZ0=",
+                "origin": [
+                    286,
+                    213
+                ]
+            }
+        },
+        {
+            "id": 411155448,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:43:51.888Z",
+            "updatedAt": "2020-04-06T08:43:51.888Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKOQCzEwQYkWd5ulgFS1Z4ujiER7m+ne3IxKAowW/+vL+Hne3xR94JLW0XZ4hUuLhUsZxR4FnomCJcppqTtO9KguMUuXWT9zahSlY27ao6y5jMrNW7YtIrpT46/c4Zh+JGDajVx965wmzlKtq/6lMwzeWYAa+NLaecfyTI5TD8/WfAtl9fYdmbGsbTzSddsjeJshCdKnvUFOoPB09XPZZ1TQhMAynw/lw==",
+                "origin": [
+                    0,
+                    252
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411093753,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:05:44.827Z",
+            "updatedAt": "2020-04-06T03:05:44.827Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "wood",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:05:44.747Z",
+                    "updatedAt": "2020-04-06T03:05:44.747Z"
+                },
+                {
+                    "id": 27641175,
+                    "name": "crushed/broken",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:05:44.747Z",
+                    "updatedAt": "2020-04-06T03:05:44.747Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "container",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:05:44.747Z",
+                    "updatedAt": "2020-04-06T03:05:44.747Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJlQGzPwQYkTT/YbAVSHz1dHEMq5ry9eJDrsAIDS+D//8svZ3Mu3bUs8UbJPdcPSu96FD0nqUDQy/uy4qrv7/zk731tWN9470HhiwXzL8y+spj53IXfIYsWq75Yu+rCRqEvYaEvIjSr1kuVrBDZG85rFdJ1bzWbrJbr+9BmvqmLvq9ybPe6WH11gfPSF3uzLiwM+hJn+iLA+sVZrQsTyy7MDl2g/HaB+WoH91uO+WGNfVOA6h3c4eqBxoddtL66sHntovJVzuzRru9D2vnMnN8Hd/N9593ra2v1QHLv8cUXDPsPL9juwbxn/vPfN+caqsLd7zlpyfFKRvGooNV7fvk2AD3P4Onq57LOKaEJAGkbiXE=",
+                "origin": [
+                    220,
+                    102
+                ]
+            }
+        }
+    ]
+}

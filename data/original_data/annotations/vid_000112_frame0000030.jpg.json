@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411143900,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:33:36.625Z",
+            "updatedAt": "2020-04-06T08:33:36.625Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:33:36.539Z",
+                    "updatedAt": "2020-04-06T08:33:36.539Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bottle",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:33:36.539Z",
+                    "updatedAt": "2020-04-06T08:33:36.539Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBxwE4/olQTkcNChoKAAAADUlIRFIAAAAXAAAAHQgGAAAAQbH3xgAAAY5JREFUSEu1lr1KA0EUhb+jooKiYqMIai2I+BwW9jYWFhYWsfYFtDWFhZWdha1vYWNlo4VgE7EJGCxCSK5M2AnrZn8mkzjNsuzc78w93Ll3RWaZ2Q5wDLSBK0nuGbXko8xsC3gF5jKkjqTZGHofbmYLQAsYiGVhkgq/FQl7uEu98nSjCni4BaZtkqYC9yIzOwLuQwOAhqSNkP0OXgPqIZtTew4lPVbFjGrLgBfifzQc6EmaLju9h18Al1Vp5nz/kbRYWopJrYdWTJb1IWk7TyB9Q7tAcJllYLuSXoYuXur6nwE3Eda4kK6kmUL4mNa48GVJ32mBP/3CzGJ998wTSXf+JQsfx3fPbEpadS9Z+C1wGul7OqwtaX6ojU7AGi/y9J/wbh78GdifgDX5k2dS1uSOLjNrAivjnr5wLppZr2ymhgiXwV2fcXUfvUonupmdA9eRdKv8XTCzT2AtQqBeCU8aWgcY6nolgi1JS0HwRKABrAdk8CWpn2kwPBHYAx6AzeS3zw8XV1nvwIGkN3+AX921i1GWOEOKAAAAAElFTkSuQmCC9PLD4w==",
+                "origin": [
+                    284,
+                    224
+                ]
+            }
+        }
+    ]
+}

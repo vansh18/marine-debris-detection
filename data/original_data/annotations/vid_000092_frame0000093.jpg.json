@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411135938,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:00:42.358Z",
+            "updatedAt": "2020-06-09T00:47:19.032Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "metal",
+                    "labelerLogin": "fulto081",
+                    "createdAt": "2020-06-09T00:44:58.722Z",
+                    "updatedAt": "2020-06-09T00:44:58.722Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "can",
+                    "labelerLogin": "fulto081",
+                    "createdAt": "2020-06-09T00:44:52.181Z",
+                    "updatedAt": "2020-06-09T00:44:52.181Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwB6gAV/4lQTkcNChoKAAAADUlIRFIAAAAkAAAAHQgGAAAAwnXO/QAAALFJREFUWEftl9EOgCAIReP/P5qmmw7LBAuBNn1o80XO7k24wuG0EBFpaQCAtM8fq3WFcAEaQagA0QJFZnqwFKDnSjpPbNmXQtJfQgRkAdJY90RvDVI4bpZ5gfwDyFudpjFGgKlAYWDSvY8Ck9XZQEzL3gpxM20rNFKoSYwRrn4oIJrL8rT3UqgXEF2ARkm15qFVKs3EZJVpP1uQ7UVvXgzaEGym5uwLAbQSglWo1wqsgE4n8HgGfa8E3AAAAABJRU5ErkJggqGlXVE=",
+                "origin": [
+                    221,
+                    188
+                ]
+            }
+        },
+        {
+            "id": 459284160,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "fulto081",
+            "createdAt": "2020-06-09T00:45:30.660Z",
+            "updatedAt": "2020-06-09T00:47:14.016Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    115,
+                    134
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411093349,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:01:44.868Z",
+            "updatedAt": "2020-04-06T03:01:44.868Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:01:44.777Z",
+                    "updatedAt": "2020-04-06T03:01:44.777Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bag",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:01:44.777Z",
+                    "updatedAt": "2020-04-06T03:01:44.777Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBXgKh/YlQTkcNChoKAAAADUlIRFIAAAA5AAAAGggGAAAADSD0HQAAAiVJREFUWEfNmDFoFEEUhr9fTTQaFdIIKUIEIWhnpSIIWgUb00WwEQISOwsDdmlFRBHTaGFlo4VF0EoIWCqSJqCVINhZRVCISfTJg1kZjiR3l53Z2YHldrnZf97He7PzzwjAzMaBu8BxYC+wDxgN94eAPYDCrwGbwA9gBXgp6anrtLXJzP4GgLoxOvwa8BmYl/S6rmCq9x3Sg8vRXPcTcEbSrxwD9KqZEzKOwTO8IGmu18BS9msKMo75i6QTKSG6aZWArGJ6IelqtwBT/F8S0uPfACYlLaWA2U6jNGQV10/gmqTFHLBtgazYfP19JWk6JWzbICs2X37cZCSZs22FjGGn6paxQ34ETgfL5uJ/gN/Buh1JWTY1tNyV3ZL0eDca7ke3bWZ2ELgBXAfGgMPB1+5mrBTveBl/kHS2H7EdIbcSMrPzwMVwXepnsIR9HfY78F7SlW66fUPGgma2H3gITAEjgD+XaF7OX4GhAH9f0vMqkFqQnTRmNgw8COU9UII2GtM3Bcd8c5AUsiPL54C3gO9HS7UNSYPZIP+vAWYHAP+CTxT6aC1nh+zI7izwCBhsMLWbjUJG2XXQm0AT89aKQEaw6w2AloV0WDNzd5WzfL8VzWSU0SfBWeWYqidbARnBrgJHdyB9A1zu8XTRXdEdSfdaBRnK10Emow1DxfxM0kzo4+fAC2ENfgfcBvzcyM+MfU/qdu9CFseTstbMzIFOhTV2sc6x5j8TnaTXsNfsCAAAAABJRU5ErkJggrEvEyw=",
+                "origin": [
+                    0,
+                    165
+                ]
+            }
+        }
+    ]
+}

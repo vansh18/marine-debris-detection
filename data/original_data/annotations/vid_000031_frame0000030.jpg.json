@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411141566,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:21:34.749Z",
+            "updatedAt": "2020-04-06T08:21:34.749Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLxQKzCwQYk36989h1I7fB0cQzJaHx7MZCv2UCAOfBd/ctv+70EXE/eWFApHnG7WmaSiuckjfmNJcvCpXhtJ5/7pfWf532wWJTpnv4didd/2D1suvv4d4vwlR92iQ1y99n/fGB07JN/8gNGfOn4OFGZcXV77CbvLxYZ6eej/2o7OaxYN73qOgvj1ZJ1nEyLrP2rr7M0qvzys4ZTEJlVL2OEWUIu71RiWbOs2FcgwPf5LIUNFelGBzIFIjZ9Ft+Xf17hmv2TXUA/MHi6+rmsc0poAgBbcGVR",
+                "origin": [
+                    365,
+                    232
+                ]
+            }
+        },
+        {
+            "id": 411141567,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:21:34.749Z",
+            "updatedAt": "2020-04-06T08:21:34.749Z",
+            "tags": [
+                {
+                    "id": 27641175,
+                    "name": "crushed/broken",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:21:34.663Z",
+                    "updatedAt": "2020-04-06T08:21:34.663Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "unknown_instance",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:21:34.663Z",
+                    "updatedAt": "2020-04-06T08:21:34.663Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKGQKzIwQYkC7yc24FUuqeLY0hE69uLF3kPKPAwB77fX/K7f1WH0JopX+4xPGDmZLhw1nTFPeNcGbmV93698G1QTfl6YerD+T9731REu5ScXHdxGsNxC6U62UtKi7RSsh1EHtewRLtc+8gYNJlDk2/lPbO3Nx4yMCi8ZCv/3L7RQ9d5F9BKBk9XP5d1TglNAGbTPZ0=",
+                "origin": [
+                    364,
+                    39
+                ]
+            }
+        }
+    ]
+}

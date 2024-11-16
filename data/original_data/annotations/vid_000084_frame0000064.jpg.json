@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411139320,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:12:02.723Z",
+            "updatedAt": "2020-06-05T23:32:53.030Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "fish",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:12:02.633Z",
+                    "updatedAt": "2020-04-06T08:12:02.633Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI1QGzCwQYkPURj9jMwMMZ4ujiGVMS9vebI12zA4xJY9N85OFBTOkRB9XLWhz/vJiidntfuefuQvlajmKnuYb2G9r0sDcxy0xxu7MixeJDI2dJ7uo0ErvTmh693rVPetnbrpZlT5NYx9yd9/zz14unm+u5YWdkPze9rrurq89aV795ezvBhYr2NWnraAu3k/enGhpO2GHLHyu4WsbiRbP35B+/81nVV4fIfbzefb5q393vmjWvzv8Q7qd+52n+7QLTikdj8uqvH1v36P38WK/uvzTPfytaxyzx5fXQL6/2o9y9ki/7X2Mqpf+OMaD681J+hoHbZNVHG7c8umrPvsAt+3dUQ/fnFbOaY+StLXQ+srfxylnHd+Su7lB5cs/n1jOF6elasYEG2XG1xw2vjres4dpj277M88HVmVDjLnVnu92Ue/PJZq82Ud3ZxPh/Y2Pillx1MOzSvPwYGN4Onq5/LOqeEJgC0T7kF",
+                "origin": [
+                    10,
+                    127
+                ]
+            }
+        },
+        {
+            "id": 411139319,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:12:02.723Z",
+            "updatedAt": "2020-06-05T23:31:37.371Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:12:02.633Z",
+                    "updatedAt": "2020-04-06T08:12:02.633Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "container",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:12:02.633Z",
+                    "updatedAt": "2020-04-06T08:12:02.633Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwB9wEI/olQTkcNChoKAAAADUlIRFIAAAA3AAAAVQgGAAAA7ed8FwAAAb5JREFUeF7tm9uSgyAQRJf//2i3klpSLAXDSEC728kzZTieuSBi+gH+HcdxlNNLKaUz0z01+MyFZ8fWQFRw1uS9N8Rr8FJzK8BeNwAGbhXQTHguM7cDohemW81dCdIC3AZ3N9i2nEMA2wKHAhZwf4nqqpZI1paaQwOTh/MCmmGJaC33PU+v68Ihg02bQ4f6ypwkHAvUlDk2OE/evQsKI1jAMZsb2UusIekpLAHn3XK7Y5y1DAtzdxjx/qe0Oati0odlwHljHHFcL+8iLBFt1XNq2ZMw1ysq2nDsTwXWAvqz+6X4dCAD18q7gGNoBWGOxVJrnnUjj5xjslnakzJXF5VnwKksw0p7/14+si/B6nVmwDFVy9KepLmcd8+By0oVCsurmTePagQceJWRNvcuKj0BEqGpCtcNS4V1ZsCBF8Xu9ExzzKGZ+zftYVIrogKOsdc1N4hamtnguvuWj4NjqpjN18ajPsYSmrJw3aMaCuYCjvXxZ9ocesU0jySOck4eDhnwa3PycKiAS8yVuYmyahl9IOj6INdTdK42OwIz9y29QKNxuyxDwO0IZw/YJeZWr3q8YLfC1dCj8D0Dla/9C67eVF3veg1kAAAAAElFTkSuQmCCQHjmjw==",
+                "origin": [
+                    215,
+                    111
+                ]
+            }
+        }
+    ]
+}

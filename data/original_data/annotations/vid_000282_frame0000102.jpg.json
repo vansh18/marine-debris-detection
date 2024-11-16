@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411095408,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:22:19.145Z",
+            "updatedAt": "2020-04-06T03:22:19.145Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLTgHg6BxuQ/B67yJ2BgUXC08UxpGLO22sH8x5bCbAG/v3vX212ntl/nvJEkdlXs67dZHFkatl3tVumXcVzkkpm8vrrr0u/7TV5crWhbrHciqcbbAxKX1vq9HufreI/nRw8WbL9aePL+jS5aezL9ivxnWYOfpFYGSPdbafTnx0sN81pjQWQ4bwaKHH7zKvDn3aYOcpMO76Vkd9bcQWQ16XMf/qxVo/dmutAqtNulXkVu6+b/JX8F7ElwrUO6S9yS5hrbbBS4S9qTTrs5mh/sZNykffjrlLmXdC/jHXvRLYL7peb7nkwv1ic6Zi/hPHLxS0LzC8x/MqIumi9UrjWYO2LuVc67WbIfQl75SDvzV+lXbqgf6n43ulSF9svdd/z7n3h/NL1/VK3Lwt7FpgHM//ycLu4+yVTrcLiF3dLGu0mWL94W9Jk17f7xd8v3L8M0haYXxH/EnjGIX+F/ovFM1rvBdpfYDcU3rvU7sJxA+m9y/85yzuJVF1/e5FdoPVeafUXRpfF3++Kydpdev58cfk9Psl5Du/38lqZNN6r4S5J4dpbXVmSgEwK7a3NLImBkFJ76yNLIsgjkc3BTyLpuqHzgu/pBUfjhdFTnI6faXsXyCZrJL3LXbLkRM8LNdULgsaLZk9xcD/TkRfEJGuovev044uMmxfttpGTNSCSo7zLk7PkCMSwzQurpzi2Q20R3uWqWXIGav0C6Sku7mcb8gKEZKe6vY8Xk53mkh8vJTvd6X2cnGzF1PPnvfL3sRp983p/3gsUlj+yvty7vcB5vRuIU9Ky+bzr+729Uw+m76z6/vv5/X1ZE38Yz3j+6uz7+X//yGbdXusqz9x7rzy65EfGl323Fx12X2B+NfD1hhe6Xxvt2mZCqMgXsl+ZawXmu91zy1nGdvH4pUXf106szhD6tODeC16RA4tv+WdPjj77bJ7n/g1fv/Q/fav078GW45keXXXa8he/GpR6X51QdeblYhOVUPdPhvHySxRfWi2rnrDrwt97l2x4MgKErr4PntWue2+fzaKHqadN+C9uuMo7O2pZRUte5NUNq9O73DNOdJUd9v3InhFRsjvaFkSH7Na0DbZxcla65Zs985VhltjF3KzjJfxBkzvygq2BZuu5msy+Z/B08ZfVHXGKvJdtPfbPuqu1JXEX+8qTZ/IU/yrJWfydaNX3WPF/tKtd2a3HJTLubxx/vui13XhRvvzsq7T04M3/gUUFg6ern8s6p4QmANKUCbY=",
+                "origin": [
+                    1,
+                    209
+                ]
+            }
+        },
+        {
+            "id": 411095409,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:22:19.145Z",
+            "updatedAt": "2020-04-06T03:22:19.145Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "wood",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:22:19.081Z",
+                    "updatedAt": "2020-04-06T03:22:19.081Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "branch",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:22:19.081Z",
+                    "updatedAt": "2020-04-06T03:22:19.081Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwB+gIF/YlQTkcNChoKAAAADUlIRFIAAAArAAAAWAgGAAAAbOsOrwAAAsFJREFUaIHV2r1qVEEchvH3EnIH8QYSrLVJp7Uh4AVYCGonprJQRATBNH40mtJGbBWMaCNILJWI0QSCIiJRkcSvkOw+FnFHhrPzn+3e2ecKfgxzZoaZIzUYsAL02W8TmHSbhgas023P7RraEOigCbctCzgZYI+7fVnA53Ea2Z8lqduWBRwORvWP25cCpoBegH3lNkqSgLMBctC02ylJ4v/iX2rObUxVoEtuX1YA3XDbsoDtktRty4qgtHQWAJ5X5uoLtzEF7EZSty+L8nLVAw65fSlgNhjUdg4rwLsAuuv2pYDb0TwFNt3GFMHx71+zbmMK2BmLUZXCbbXvtqWASeBB86MKXKzMU4Brbqekkc6q7exWI4zqqtsoSQLOV6ArtLJjAXsBtA2kJAHTAXTL7csC3gTYKbcvBUxQXgV+uH1ZwHIwqqfdvizKNys7blunYFQvuG1ZwNUAO+P2pYBzARTghtuYqkABDrqNkiTgcU3qNqZGGNVjbqMkCfhVgbZxDmB/t4o64jamgDsB9K3blwV8KEndtk6Ut9ae29YpmAJtnQOAxQC76PZlAd/Hab6WroOamwI3gynwze1LAQsBFOC12yhJAuYqUICjbqekcF0ddNdtlCQB1yvQbbcxBWwF0D4t/SEUQNu4Xx0EPAywbZxXpeqlRTu7FTAfQWnsPeBlBbvuNqaAr2MxBaTqm0BTD8LRhXBzy9WXALvm9mVFc5VWDiuSBJwIoO1csEkScKkAbWddHUT5H5ZnblsW8D6YAvfdvhSwVvmwmnoWCnP7UsDTinXZbZSUfmCI+u02poj/YGvrki2AtrWuAksB9pHbl0VwDHTbOgWj2tZ/AVKIvey2dQqwZ9y2TgF2wW3rFGBPuW2dAuw9t61TgJ1x2zpRXmfn3bZOlB+K27lwGwTcGgL95HYVA64Aq8BH4AlwwG0a1l/T8644BNCIpgAAAABJRU5ErkJggsrgX7w=",
+                "origin": [
+                    314,
+                    1
+                ]
+            }
+        }
+    ]
+}

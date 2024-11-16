@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411156013,
+            "classId": 1400964,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:48:21.989Z",
+            "updatedAt": "2020-04-06T08:48:21.989Z",
+            "tags": [],
+            "classTitle": "unknown",
+            "bitmap": {
+                "data": "eJwBJwHY/olQTkcNChoKAAAADUlIRFIAAAAaAAAADggGAAAAMQ0MQwAAAO5JREFUOE+1lDFqQkEQhr8fIxY2SekJEkgq25S5g42NJ0iXeIMQcglrwdpe0lspok26HEGCQX+Zl/fg8dDwCndgi92d+b9hd2ZEyWwvgPvyGWDgCxhKmlTuam9VeNr+Ba5qRAb4B1gDz5I+a8SQgWyvgLs6Af/4RAIHYCbpqepXgMIphW0k3YawbLfyp0gBCs2tpHaAOsB3KkquOw7QB/CSGOQAjYBBYlD2RwEJWFIrqm4HNBOSXICGwHtC0Lg8GV6BN6BxYeBfeVdFbfeBHnANzIHpCfAj0M1X9OHNmQSXkh6yhr1w9jHOGpL2Vd0jRT1LR0s7gg0AAAAASUVORK5CYIInDnh3",
+                "origin": [
+                    74,
+                    211
+                ]
+            }
+        },
+        {
+            "id": 411156014,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:48:21.989Z",
+            "updatedAt": "2020-04-06T08:48:21.989Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "shell",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:48:21.894Z",
+                    "updatedAt": "2020-04-06T08:48:21.894Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBSwG0/olQTkcNChoKAAAADUlIRFIAAAAVAAAAEggGAAAAtBKVLgAAARJJREFUOE+tlD1KBEEUhL9C1MQVRfAMgrgmZl5DBXNDY8/gAfYQgiwaeAYTsxW8gJGRP4EIK5b0MCPTg053u1tpV3/9Xr/qFv+U7UNgBbiS9NLGqJRp+xVY7ex7ArYaeBHUtnuK+AI2AjgbmgA2Z00k7WZBM4EVWEGpO7V9B+ylfK319V6o7TXguQAYV2p7BzgBjuqoLAOLJcCofdtnwHm4klJIx38raV+2D4DLGWE/Q6qqtf0BhFZnUnvoAdoX6NyDppKWGvO8oENJ9/OEPkjajj4U22/AILfPjm8sKQw6Umg/5HNSAP0EriWFr+9XVbmsY3UBLPzhewcegZGkUaqAKOz1IzgGNoEpcCPpNAXprn8DlSNaIM+2kSwAAAAASUVORK5CYIK+Q4fU",
+                "origin": [
+                    16,
+                    221
+                ]
+            }
+        }
+    ]
+}

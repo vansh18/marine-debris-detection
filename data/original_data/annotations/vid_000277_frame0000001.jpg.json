@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411094949,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:18:17.738Z",
+            "updatedAt": "2020-04-06T03:18:17.738Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIngPg8BxuQ3BA7T42BgWmdp4tjSMWct9cD8+Y4iLg6vq+/fM59yolph17OYKxasDqsQe89x8ePjAww8P/l5+6b55nynxYnfPt80GSxRcuhTXVC7R4R5+Y5uBwS+nZMUWCagsANBb4bH7xkmB5ePMIoHdfrrGAzzUKBg8VMRrDdoUKn0UGAnaXxQJvyIwGOflUBDqZGRqAQB1CowQGoio2FyVFBgIWJmalRASSpwIdQ4fAjU0Ep0RImI8Bhz+uiouOqIPCNRUlomqKABFBRvCAHXP7GBnO+xg08jQfY4oFy7Dkfvjbof2NTFJJ7ekLA5ZByjOjRE29kH6y/afjGsNpYzOD3iX6jane5jG+B8rnf5tXvubx5w+U3yXbde/dZZ/cfn/330bmk1Z97vlkk/9ZcJ1PKFr13vvL9ky/T+ktFpe+eDzT/N+mmcsxJs+/Fx85aNzHOvnNclNeCJc9bQeAII9hHjjICUL+hEEcYH05SaDkYO1eK7c5cUDg1GSh0MDeBwgJMHEps7GhRFwKGGSQMCBKFxEtgMxQi1nIXaKso2AnIjoEQFrhZYMVoBIpeAyTFP9ghMfXhvIML035OFhS1CK1Q1iH987bXTp+eKvkblBQ9Xf1c1jklNAEAuSDe3g==",
+                "origin": [
+                    280,
+                    109
+                ]
+            }
+        },
+        {
+            "id": 411094950,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:18:17.738Z",
+            "updatedAt": "2020-04-06T03:18:17.738Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:18:17.669Z",
+                    "updatedAt": "2020-04-06T03:18:17.669Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "bottle",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:18:17.669Z",
+                    "updatedAt": "2020-04-06T03:18:17.669Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLGQKzLwQYkmWuDDwKpBE8Xx5CMxrfnD/I2KAgwHHy9P/OPlC+LoK2BsegbN6CCC2vepGwv0RS9WeubJezNc3fmjLIV5UmzFgoyrzRezH6mZ0ZF8bPNEx9f+SScz5Na73Lk88w3/yYvfbz+TxITA0PEUba1EwNuhSzcWgg0isHT1c9lnVNCEwBclTie",
+                "origin": [
+                    174,
+                    148
+                ]
+            }
+        }
+    ]
+}

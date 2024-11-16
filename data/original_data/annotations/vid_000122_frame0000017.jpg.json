@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411143701,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:32:18.566Z",
+            "updatedAt": "2020-04-06T08:32:18.566Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "1",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:32:18.489Z",
+                    "updatedAt": "2020-04-06T08:32:18.489Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJwBAgH9/olQTkcNChoKAAAADUlIRFIAAAAtAAAAIggGAAAAy0xQTwAAAMlJREFUWEft2EsOgCAMBFB7/0NjWJCwEJzW6ccEt354GUaIyvXDQ35ovg46atZO0ifpTQKqerTW2niWiKjuZc4CNPCMnQfPgkPoDl3B+7loPIyuBKehIxNXoUefs6tiQr9VxTt1MzoT/gmNwD1S/4xG4Uw8Ba2BM/A0NLKysHZTOlqDt+6kbmi0Mha4K9oL7o72gIeg2fAwNPqCIh0PR8/LnvXjIhW9q80u8XS0BV4avdryS6C1aZdBP60uq16XQyP/Rw4aSYlxzQ0NPGAjXoDt0AAAAABJRU5ErkJggjI4bSQ=",
+                "origin": [
+                    213,
+                    12
+                ]
+            }
+        },
+        {
+            "id": 411143702,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:32:18.566Z",
+            "updatedAt": "2020-04-06T08:32:18.566Z",
+            "tags": [
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "4",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:32:18.489Z",
+                    "updatedAt": "2020-04-06T08:32:18.489Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwB5QAa/4lQTkcNChoKAAAADUlIRFIAAAAvAAAAIQgGAAAASS3y3AAAAKxJREFUWEft1tEKhCAQhWHn/R96oqCIyMQ5ZzThdLu0fvPr4lpZ+LGF7UX4Wbun8iofKEA7Nu7u9/XNjPbdtbkoCzzho4ZIx5+DZOwEjP+q3jrG6EAQHoEzdiSMZ8D3AZD6ITwLjtbvxrPhSP0ufAZ8CD4Lno7PhKfis+HC125DlX8pg1xO1/3Q+v/BLs9AT8Ez4ccPvVX+z58LP2t3VF7lAwV0bALRKK8sXX4DVQ5EIsguWQMAAAAASUVORK5CYIKa+mWa",
+                "origin": [
+                    272,
+                    133
+                ]
+            }
+        }
+    ]
+}

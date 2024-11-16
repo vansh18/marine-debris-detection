@@ -1,0 +1,113 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411140021,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:15:12.722Z",
+            "updatedAt": "2020-06-06T04:32:50.841Z",
+            "tags": [],
+            "classTitle": "rov",
+            "instance": "411140022",
+            "bitmap": {
+                "data": "eJwBNgHJ/olQTkcNChoKAAAADUlIRFIAAAA3AAAAMQgGAAAAfoIxWwAAAP1JREFUaEPtmdsOhCAMRO3/fzQbHzabGJRepkvB8RmBwxkKUTk2fmRjtoNwq9qlOZoruAKMZUEpqinRnGqZCjaiuYJSVFNKNddaa0+zEJHU8eGdj4DuYDNAIXBeoB4oEjIEh4S6giIgTXCZMIRT1chfI7W5f1r7Ti8aTcLNsIawNzQ3E+wEjESTcMYiBW/utfdobnYko/uOcPCcGTtkLDsL9t5YnotRoaikxJJwxuLgab61Oe81rPz1K3KQE86zT9DvePbd0NzKFXMZOE9RIVyFW0qauVX3nSqWVeCs9gi3vbkqgJbDXB1LwqHvXL1PB4a/sSZz17FmnH+WWH4AHDqQMrTps4EAAAAASUVORK5CYIJ3xoW8",
+                "origin": [
+                    64,
+                    221
+                ]
+            }
+        },
+        {
+            "id": 411140020,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:15:12.722Z",
+            "updatedAt": "2020-06-06T04:33:03.773Z",
+            "tags": [],
+            "classTitle": "rov",
+            "instance": "411140022",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIqQKzEwQYkzSOrW4HUWk8Xx5AI97c3HPkaFHhYHH7/d7/u0NLgcNOlxfZK8VXPm04h6/inr9Iq2t3BESSe9eDQFweRREYdBZaoRgnG+xbCX9RVGBUv8HHw3Op8uXCWqjVj1+WvPkmsVq0LWVRFfNtlWmRkFW+EeF+bk6q+XOe9Z6q27BXOsHMCruWnAowbVgVYZ2wwDEw9MZ3Hyi6szldBf87VgrSO1CfFK2RTWDTTOlY5+8yYocjua6b0/sKb/Rd5N0u1X35StfMG0OEMnq5+LuucEpoA4tlTQg==",
+                "origin": [
+                    256,
+                    236
+                ]
+            }
+        },
+        {
+            "id": 411140022,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:15:12.722Z",
+            "updatedAt": "2020-04-06T08:15:12.722Z",
+            "tags": [],
+            "classTitle": "rov",
+            "instance": "411140022",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKGQCzKwQYk3y9kswFS9Z4ujiER7m8vneZqMOBxuXjuf33JkVYFp1y5ZF7Fd7nFRd2BD5wZD2e4TOuKXeQtYH7hfOeOMxcCY5W22D06/05ISWmaJcOO91F3k+1uWP3JYVDz6k3g/e9iaKB1JLzBWqMpUqmMYdGMkg7hlLWfum7EHoxO6fohXJC4xTVIeYv/apZHDE4vNMQ2ZjbMBDqFwdPVz2WdU0ITAIYcRLQ=",
+                "origin": [
+                    299,
+                    249
+                ]
+            }
+        },
+        {
+            "id": 411140019,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:15:12.722Z",
+            "updatedAt": "2020-06-06T04:33:29.653Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "metal",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:15:12.669Z",
+                    "updatedAt": "2020-04-06T08:15:12.669Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBSgG1/olQTkcNChoKAAAADUlIRFIAAAA0AAAAKggGAAAA/KR4AAAAARFJREFUaEPt2NEOhSAIBuB4/4e22aYzM8EUBNa569QaXz+ZCoeSXwghYKUAAKDXYBdInKdgUh0YChVzgUYQdQ09FCtopujeg9wC4sJEqBiIE0Ftu+mWk0RQUJ9AOxElqtV6P0hLOm+DAzkhTZBe291AWose+Sb5BVlMpzW/A8sQt6ByxHORkG9Q1Hl4j1JK17DtBXShXII8ofJMwUvbmZ/6PBZ99R/Wk2ouH6yi4gr2B3FtPM7eN4VjPqG6y0yChjYaNQ8I2EZ9nvqk/tWKoUDyYk8jZgTQ/bDuTGgGcdvWKg92gVZhHu+QZPutRLwmJAXiwmxJiBMjDuLGNEFcA4MEZjlIquju5n3rJDUlDYC6/hMLkKgTr4hvIgAAAABJRU5ErkJggvRbhv0=",
+                "origin": [
+                    160,
+                    137
+                ]
+            }
+        },
+        {
+            "id": 411140023,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:15:12.722Z",
+            "updatedAt": "2020-06-06T04:32:46.535Z",
+            "tags": [],
+            "classTitle": "rov",
+            "instance": "411140022",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI6QMzNwQYkWXTz+4FUjqeLY4iH99sr3lwMChysB+795c+V4EhzCusWyrruLtvsZNjc4aHP2GBbXGyXoDOjUOrt2/NSH2b1Pdu4UdZiVgrbl29LP2Txiu+ZlcJeI7T44tu2eHbvzTzuYmv2LA150Hau5LB8zSdhl+Tgv0J3Qlj/M5v/sBD9WQy0l8HT1c9lnVNCEwABwjpI",
+                "origin": [
+                    391,
+                    259
+                ]
+            }
+        }
+    ]
+}

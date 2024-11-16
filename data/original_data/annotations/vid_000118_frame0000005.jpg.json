@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411155225,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:43:50.102Z",
+            "updatedAt": "2020-04-06T08:43:50.102Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJwBLALT/YlQTkcNChoKAAAADUlIRFIAAABCAAAATggGAAAAlJbAkwAAAfNJREFUeF7t21luwzAMBNDq/od24NQynECJxW3IqtNvA22eh4sUtP3w5ynQ6PArQIgjCYQgxGtTYCKYCOdEbNu2eU6e1lpKSk2/1Buhg2ZgqCGiEJ4zPSEVJSEyMAhhnRqRpcFEXMYPuk+wNFgaTgsVe8QBSQgABLpRqi9mVksDIa7jWnNyZCIA/SFjq2RpVC+NjFSoVuzoHvEnIBAI5SFQCKUhkAiEqH4fgU5D2UQQArRJjtZ89An0do/ISEPJ0iBEYlkwEf1GueJXfujSQDfJ84vnmYsZFEYWwvR9BAIiE2EaYn8wEiMbQQQxKiEPnAoIZoh3HClMFQR3CGkJESJxX/g0JW/PGjPj9fqMpDyYiMQLGEgiJGk4N7qEdXp47JdG/9vzGoiMA1YohBahSjLMzdIKcH07mc3TBOGJkA2ihohCyCqVshDoJqqCiE5DRpkQoq/72j1itVSoEtHxUBiIsUoIa2lI7x60JYgap6ZErIRhhni/i+j1HNU/ovqFGWL0gfc/lhDHf+lFQURtnGGJiB6x3iVihpiZBpHp8JoqZoj9Q969HQSEFWQ5CG0PMUH0N10pEdpkmCCq9IePV/SCG/KlISRlQgiPQ1f10pD0i+UTMVsehPgvpXE32s/ymalzj2eQ26XmFjy8NEaISJTZRDwABzE4XhYDh9cAAAAASUVORK5CYIKh4ul/",
+                "origin": [
+                    41,
+                    192
+                ]
+            }
+        },
+        {
+            "id": 411155226,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:43:50.102Z",
+            "updatedAt": "2020-04-06T08:43:50.102Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:43:50.035Z",
+                    "updatedAt": "2020-04-06T08:43:50.035Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIKQCzDwQYkGQ7tVQKSyZ4ujiEe3m+nOHIdUOBhufvf3sr1YPeWWOWu6R/3qDzesKro54tP/5gY2AwaGjWZBQVn8ntfunLH6jLb5tPuAezFMgvufjrOweDNdm9KXWlqNfudA3yPivauuebw7OfaFMYDYG3sCzepyN5a+P8TyFZPVz+XdU4JTQBjrzoc",
+                "origin": [
+                    283,
+                    130
+                ]
+            }
+        }
+    ]
+}

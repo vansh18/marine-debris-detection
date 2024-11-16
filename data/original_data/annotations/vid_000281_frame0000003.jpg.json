@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411094210,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T03:12:46.253Z",
+            "updatedAt": "2020-04-06T03:12:46.253Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "wood",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:12:25.838Z",
+                    "updatedAt": "2020-04-06T03:12:25.838Z"
+                },
+                {
+                    "id": 27641175,
+                    "name": "crushed/broken",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:12:25.838Z",
+                    "updatedAt": "2020-04-06T03:12:25.838Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "container",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T03:12:25.838Z",
+                    "updatedAt": "2020-04-06T03:12:25.838Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIgbMLBBiQlG/PvAKmlni6OIRVz3l64KNjkwMAc+Cs/ql7SzfeccFhCPOtJvW4Vz0lAtKT+wwyH/ONnjxh/OHVPMV/w64mO6Xze7XcWVfMsblYtmc8lu9K1vOuFg+6uYBf2rItzlawCut+JXGyMKlnewXdlkbVryQKxu5qLmLe+8BO1CnL6vvLiQqFd/r18VxdIh77w4LybLiH7RnTXyet2vf7p+fL5/m5/FpYv7FEH260y95CwsMeadyX1kT1ABzN4uvq5rHNKaAIAukZWuw==",
+                "origin": [
+                    226,
+                    102
+                ]
+            }
+        }
+    ]
+}

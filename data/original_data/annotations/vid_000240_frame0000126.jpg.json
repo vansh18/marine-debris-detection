@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411107268,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T06:02:53.999Z",
+            "updatedAt": "2020-04-06T06:02:53.999Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "wood",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:02:53.938Z",
+                    "updatedAt": "2020-04-06T06:02:53.938Z"
+                },
+                {
+                    "id": 27641174,
+                    "name": "overgrown",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:02:53.938Z",
+                    "updatedAt": "2020-04-06T06:02:53.938Z"
+                },
+                {
+                    "id": 27641175,
+                    "name": "crushed/broken",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:02:53.938Z",
+                    "updatedAt": "2020-04-06T06:02:53.938Z"
+                },
+                {
+                    "id": 27641177,
+                    "name": "decay",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:02:53.938Z",
+                    "updatedAt": "2020-04-06T06:02:53.938Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "wreckage",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:02:53.938Z",
+                    "updatedAt": "2020-04-06T06:02:53.938Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwByAQ3+4lQTkcNChoKAAAADUlIRFIAAAByAAAAdwgGAAAA3xAUzgAABI9JREFUeF7t3b2uTUEYBuD1FkgUQiuhUCgUQiEaF6HRKKhcgkhEKxJxCSoKjcZNKEQjCoWSROmIQuInW0as2PbZZ8+smflm5p15NSfM7/qe9c2ePWvFwTRN02q1WgGA++n+vu2PKz+oTP9ePwI78YRaHyh0BlGQc+fK0tAw29dLgnTTE6Y9UsgIyZDCDAmzfZ0skMK0h/KNkA1SmL5Q25YL0ja+xXrPCqmsLOa2b6DskMKsgynIOnHPPqoJpLIyu5O3QzNIYXpjn7WCKaQws1rt7MwcUphlMItACtMesxikMG0xi0LOl6InJvlRq0AKtDNILbf5QKtmpDJTkPki0ElPykhB5o2AdrJp8dz3ruqud1vThtrdWpBp0d0K6XtZOW3I7a0FmRbV4LfHS2SqMOMxgyHdENaYgiwEOQ9jBSrITiB10lMY0nqZVWYuB130GbnevdXyqqxcjvgnZnHNtPGJjZtVu2hI6+VVmbmMvGlIPR0Jx6SAFKgfNBrScrPjm7Z2tfsjRAmpDO0MUqD/QKkzctsSPOqy2x3kqF9buoQcEbNbyNEwu4YcCVOQvi+tJOXdQ46SlUNAjoApSJKl0zdNQfoiRFI+DGTvy+tQkD1jCpJk6fRNMxqyxKsevsknlJ8H8DahfXNNkyDnq6n5kDkhoo8A3E5o31TTLJDE2XkfwL2mRCInkw1yc3yiLH0F4HJk/JppZga5foUEqO8BnG1GJWIiRSBJll5qzGKQJJhvAFyISIjqTYpCkmDuAThRXWbhBAS5PWDud4RdAfByYTyrVS8OSZKVM8hrAJeq6SwYuAokGeavaZoutn4SJMjwu/4FgKvh1cvWrAZJlpWzyjcAR8sShY1WFZIU0037GYDrYSEuU6s65HyZBKc/myI/ABwuw+QfpRlI0uz8DuCIP8z2NZqCJMX8AOC0PdXuEZqDJMX8CuBYTUxB5ot+1e+bTUISb4Dc1B8AuJvv/gjrSZBhcVpaqzhm05Ckn5cz+hMAN5feAbH1m4ckx/w8TdMZAHuxQKHtBBkaqfh6Rb5rUkCSZ6Wb/jsA5+LvBX9LGkjynayb/h0AD/0kcTXoIMmz0+wNd0pIYswvAI7H5RzhEV3ohRI+MXGX9hjArdBrDK1Hm5Hkn5k3ADwNRQqpRw/Juszm/q/WuoAkxcz6YLobSNKl9hOAkyFLp69Od5CE2XkNwHMflK+8S0gyzI8ATvmgfOXdQhJh/gRwyAflK+8akgUzxw62e0imTVAK6DCQvYMOB8my3M43XmiWDgnZI+awkGyYbr67snNoyJ4wh4fsBVOQf3cVbM82N5dZQa4dmTBjCnLj7IsVU5CC9B3j8pYzZqUy8oD7jQ6TN2/sZ86C6Xawysgd94Mg7ZOl2AgMmMrIwNuhdUxBBkK2fownyAWQrWLO+xxtdogx1zerghTkwgh0Vr2FDZAyMuNNVQtUj7EyIq6/mecCWwp120GOPiMzwzpMS9SDTuMEaQCZucv/uhOkZXQD+k5ddn3n4srIAIRcVVIwBZlLIUM/SyF9eOtTUkZmAIrtYobd3BwtAZzH/g1zzxeSd93L2AAAAABJRU5ErkJggs5eQJ8=",
+                "origin": [
+                    0,
+                    156
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411092310,
+            "classId": 1400967,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T02:46:10.580Z",
+            "updatedAt": "2020-04-06T02:46:10.580Z",
+            "tags": [],
+            "classTitle": "rov",
+            "bitmap": {
+                "data": "eJwB+AEH/olQTkcNChoKAAAADUlIRFIAAAAbAAAAIAgGAAAA42kDOwAAAb9JREFUSEu9lj1LHFEUhp83ahVIVLAQAjZJbAVB0qqVSZMiYJvO2iIEgggWgpW1YOEvSBEIicXWwoI/ICZNEGKlRkgaSdxX7jKzuB8zc3d2nakG7nnf55z7ce4VBZ/tQ2ARGEtCL4F3kg6KtJ3jyhPYvgIeZ8R8lPSmH2AmzPYP4GmB2WtJn2KBeTBHmPyS9CQirhnSE2Z7HdiNMLmRNBoRlwvbBLYiTa6BI0lLRfFZla0AX4rEPcbrkl5k6bJgC0C9BCxIziVN9dJmwb4Dz0rCguyPpEeF58z2b2B8AFAq7aqwrTLboSu8HQIotWg7+J2wRtZxKJuApBaj9WP7PzBS1jRPlwKbMNsXwOR9gBLPhqQR2V4GavcISq33A+wz8KoC2L8AOwGeVwAjwI6B+apg34DZqmDhmp+oCvYXeFgBzGHNBm26sXnWAuwDsB2rKBsXukjaQYbeEzuS+irpZQrbAd6XzbpI19Ybk/4Y3hwbwIMicb/jXbDUwPZqUuXcsK6bTNjdrG3/BGb6raTrOZDsjdzndzK9MY/V3HyiKktgNwOuoyU190FMZWfA9ABTeSqpuRQxsD1grSSsVVXQ3wJmr5VSDD/D/AAAAABJRU5ErkJggh0V4TM=",
+                "origin": [
+                    244,
+                    238
+                ]
+            }
+        },
+        {
+            "id": 411092309,
+            "classId": 1400965,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T02:46:10.580Z",
+            "updatedAt": "2020-05-08T03:06:15.372Z",
+            "tags": [
+                {
+                    "id": 27641176,
+                    "name": "animal",
+                    "value": "eel",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T02:46:07.111Z",
+                    "updatedAt": "2020-04-06T02:46:07.111Z"
+                }
+            ],
+            "classTitle": "bio",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtL6QMzNwQYk30td6QFSpZ4ujiEe3mcvneZtMOBoSPwveefw2zuHYm0rj2VccvGVnzEtqO/Aw8cHTRI6OlwiwvPYnwUcPj2PIctSekPZ8fBF8w/rPvvRduN9aF9ahXPKp6mbKvgnPHvZeLtX3UDB5EGEv3mN7hWR/Ebt2CfXn9k27GSM+3GxYOnZ+QwFBsr9rlWZQAcweLr6uaxzSmgCAPDYRvs=",
+                "origin": [
+                    0,
+                    131
+                ]
+            }
+        }
+    ]
+}

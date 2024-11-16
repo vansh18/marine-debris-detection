@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411097624,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T04:06:24.269Z",
+            "updatedAt": "2020-04-06T04:06:24.269Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:06:24.183Z",
+                    "updatedAt": "2020-04-06T04:06:24.183Z"
+                },
+                {
+                    "id": 27641174,
+                    "name": "overgrown",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:06:24.183Z",
+                    "updatedAt": "2020-04-06T04:06:24.183Z"
+                },
+                {
+                    "id": 27641177,
+                    "name": "decay",
+                    "value": null,
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:06:24.183Z",
+                    "updatedAt": "2020-04-06T04:06:24.183Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "tarp",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T04:06:24.183Z",
+                    "updatedAt": "2020-04-06T04:06:24.183Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    141,
+                    1
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411107380,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T06:04:16.810Z",
+            "updatedAt": "2020-06-27T01:06:56.156Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "metal",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T06:04:16.749Z",
+                    "updatedAt": "2020-04-06T06:04:16.749Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "pipe",
+                    "labelerLogin": "fulto081",
+                    "createdAt": "2020-06-27T01:06:39.623Z",
+                    "updatedAt": "2020-06-27T01:06:39.623Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    158,
+                    77
+                ]
+            }
+        }
+    ]
+}

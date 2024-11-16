@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 411139019,
+            "classId": 1400966,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "jasonsf",
+            "createdAt": "2020-04-06T08:09:24.629Z",
+            "updatedAt": "2020-06-05T20:49:59.409Z",
+            "tags": [
+                {
+                    "id": 27641173,
+                    "name": "material",
+                    "value": "plastic",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:09:24.560Z",
+                    "updatedAt": "2020-04-06T08:09:24.560Z"
+                },
+                {
+                    "id": 27641174,
+                    "name": "overgrown",
+                    "value": null,
+                    "labelerLogin": "fulto081",
+                    "createdAt": "2020-06-05T20:55:42.718Z",
+                    "updatedAt": "2020-06-05T20:55:42.718Z"
+                },
+                {
+                    "id": 27641178,
+                    "name": "instance",
+                    "value": "container",
+                    "labelerLogin": "jasonsf",
+                    "createdAt": "2020-04-06T08:09:24.560Z",
+                    "updatedAt": "2020-04-06T08:09:24.560Z"
+                }
+            ],
+            "classTitle": "trash",
+            "bitmap": {
+                "data": "eJwBgQF+/olQTkcNChoKAAAADUlIRFIAAAAyAAAAPggGAAAAaf1IygAAAUhJREFUaEPtmuEOwyAIhOf7P7RLzTStqXraQjzGfjPh40RoQvgI/mKMceb4EEKYsT/bLv+x5XA2+F7gM2DLIG8GjKgwgroF0Q4SATlsejAXkF0BMigEsjvECKYowgLSumIJhAmipQwtSK0MNcgZxg4IY31cRpPfWBMcBG3Hwna5SboiwomGj3dF4FQpGboiSomG3RRFWIfGenikH1HyvGUHhH1EKYpYAEkwDgI/kDqGrohOnjEvR1M0oYiDYILrWbkiernGPZmYtVJnZx/j7U2/rgheh+KW6fnNXpin4ALCDGGz2NkL3l6NsCpyfqyoXy0HEe9skw5ckcmEiZrXCza0xe4govdk4fCmImxN8T9AmFTpKsLykXW32zhcl93powtazuw9HDvALO39tqC0gEZB38U3vFpvKNUKLCdmJfA6rscgT4J4E+QL8wYANkzED8gAAAAASUVORK5CYIL3HaVm",
+                "origin": [
+                    345,
+                    129
+                ]
+            }
+        }
+    ]
+}
