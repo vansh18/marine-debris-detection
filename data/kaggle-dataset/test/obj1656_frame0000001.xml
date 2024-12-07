@@ -1,0 +1,26 @@
+<annotation>
+	<folder>obj1656</folder>
+	<filename>obj1656_frame0000001.jpg</filename>
+	<path>/home/marc/Downloads/drive-download-20180909T195351Z-001/obj1656/obj1656_frame0000001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rov</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>40</ymin>
+			<xmax>311</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>
