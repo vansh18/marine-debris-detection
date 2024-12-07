@@ -1,144 +1,132 @@
 import streamlit as st
 from ultralytics import YOLO
 from PIL import Image
-import numpy as np
 import cv2
-import tempfile
-import os
+import numpy as np
+import time
 
-# Set page config
-st.set_page_config(
-    page_title="Marine Debris Detection",
-    page_icon="🌊",
-    layout="wide"
-)
-
-# Initialize session state variables if they don't exist
-if 'model' not in st.session_state:
-    st.session_state.model = None
-
-def load_model():
-    """Load the YOLOv8 model"""
-    try:
-        model_path = '../src/models/runs/segment/train23/weights/best.pt'
-        model = YOLO(model_path)  # Load the model
-        return model
-    except Exception as e:
-        st.error(f"Error loading model: {str(e)}")
-        return None
-
-# Custom preprocessing function placeholder
+st.set_page_config(layout="wide")
+st.title("Marine Debris Detection")
+#preprocessing func
 def preprocess_image(image):
-    """
-    Preprocess the image by removing text, detecting edges, and overlaying them
-    
-    Args:
-        image: PIL Image object
-    Returns:
-        processed_image: numpy array of processed image
-    """
-    # Convert PIL Image to numpy array (BGR format for OpenCV)
-    image = np.array(image)
-    image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
-    
-    # Create a mask for the text using thresholding
+    image_array = np.array(image)
+    image = cv2.cvtColor(image_array, cv2.COLOR_RGB2BGR)
+
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     _, mask = cv2.threshold(gray, 200, 255, cv2.THRESH_BINARY)
-    
-    # Inpaint the image to remove text
+
     inpainted_image = cv2.inpaint(image, mask, inpaintRadius=3, flags=cv2.INPAINT_TELEA)
     
-    # Convert to grayscale
     gray_image = cv2.cvtColor(inpainted_image, cv2.COLOR_BGR2GRAY)
-    
-    # Apply Canny edge detection
     edges = cv2.Canny(gray_image, threshold1=100, threshold2=200)
     
-    # Overlay the edges onto the inpainted image
     overlay_image = inpainted_image.copy()
-    overlay_image[edges > 0] = [0, 255, 0]  # Highlight edges in green
+    overlay_image[edges > 0] = [0, 255, 0]
     
-    # Convert back to RGB for display
-    overlay_image = cv2.cvtColor(overlay_image, cv2.COLOR_BGR2RGB)
+    return cv2.cvtColor(overlay_image, cv2.COLOR_BGR2RGB)
+
+@st.cache_resource
+def load_model():
+    model = YOLO('../src/models/runs/segment/train23/weights/best.pt')
+    return model
+
+model = load_model()
+if 'preprocessed' not in st.session_state:
+    st.session_state.preprocessed = False
+if 'preprocessed_img' not in st.session_state:
+    st.session_state.preprocessed_img = None
+if 'preprocess_time' not in st.session_state:
+    st.session_state.preprocess_time = None
+
+uploaded_file = st.file_uploader("Choose an image", type=['jpg', 'jpeg', 'png'])
+
+if uploaded_file is not None:
+    if 'current_file' not in st.session_state or st.session_state.current_file != uploaded_file.name:
+        st.session_state.preprocessed = False
+        st.session_state.preprocessed_img = None
+        st.session_state.current_file = uploaded_file.name
     
-    return overlay_image
+    col1, col2, col3 = st.columns(3)
 
-def process_image(image, model):
-    """Process the image and return the results"""
-    try:
-        # Preprocess the image
-        processed_image = preprocess_image(image)
-        
-        # Run inference for segmentation using predict with mode='segment'
-        results = model.predict(source=processed_image, conf=0.25, mode='segment', save=False)
-        return results
-    except Exception as e:
-        st.error(f"Error processing image: {str(e)}")
-        st.error(f"Full error details: {str(type(e).__name__)}")
-        return None
+    image = Image.open(uploaded_file)
+    
+    with col1:
+        st.write("Original Image")
+        st.image(image, use_column_width=True)
 
-def draw_predictions(image, results):
-    """Draw segmentation masks on the image"""
-    try:
-        # For segmentation, we use the masks plotting
-        annotated_frame = results[0].plot(boxes=True, masks=True, probs=True)
-        return Image.fromarray(annotated_frame)
-    except Exception as e:
-        st.error(f"Error drawing predictions: {str(e)}")
-        return image
+    if not st.session_state.preprocessed:
+        if st.button("1. Preprocess Image"):
+            preprocess_start = time.time()
+            with st.spinner("Preprocessing..."):
+                preprocessed_img = preprocess_image(image)
+                st.session_state.preprocessed_img = preprocessed_img
+                st.session_state.preprocess_time = time.time() - preprocess_start
+                st.session_state.preprocessed = True
+                st.experimental_rerun()
+    
+    with col2:
+        st.write("Preprocessed Image")
+        if st.session_state.preprocessed_img is not None:
+            st.image(st.session_state.preprocessed_img, use_column_width=True)
+            st.write(f"Preprocessing Time: {st.session_state.preprocess_time:.3f} seconds")
+    
+    if st.session_state.preprocessed:
+        if st.button("2. Detect Debris"):
+            try:
+                detect_start = time.time()
+                with st.spinner("Detecting..."):
+                    results = model(np.array(image))
+                detect_time = time.time() - detect_start
 
-def main():
-    st.title("Marine Debris Detection System 🌊")
-    st.write("Upload an image to detect marine debris")
-
-    # Load model on first run
-    if st.session_state.model is None:
-        with st.spinner("Loading model..."):
-            st.session_state.model = load_model()
-        if st.session_state.model is not None:
-            st.success("Model loaded successfully!")
-
-    # File uploader
-    uploaded_file = st.file_uploader("Choose an image...", type=['jpg', 'jpeg', 'png'])
-
-    if uploaded_file is not None:
-        # Display original image
-        col1, col2 = st.columns(2)
-        
-        with col1:
-            st.subheader("Original Image")
-            image = Image.open(uploaded_file)
-            st.image(image, caption="Uploaded Image", use_column_width=True)
-            
-            # Add preprocessing view
-            st.subheader("Preprocessed Image")
-            preprocessed_image = preprocess_image(image)
-            st.image(preprocessed_image, caption="Preprocessed Image", use_column_width=True)
-
-        # Process image button
-        if st.button("Detect Debris"):
-            if st.session_state.model is not None:
-                with st.spinner("Processing image..."):
-                    # Process the image
-                    results = process_image(image, st.session_state.model)
-                    
-                    if results is not None:
-                        # Display results
-                        with col2:
-                            st.subheader("Detected Debris")
-                            result_image = draw_predictions(image, results)
-                            st.image(result_image, caption="Detected Debris", use_column_width=True)
+                with col3:
+                    st.write("Detection Results")
+                    for r in results:
+                        boxes = r.boxes
+                        plotted_img = np.array(image).copy()
+                        
+                        detections = []
+                        
+                        if len(boxes) > 0:
+                            for box in boxes:
+                                x1, y1, x2, y2 = box.xyxy[0].cpu().numpy()
+                                conf = float(box.conf[0])
+                                cls = int(box.cls[0])
+                                class_name = model.names[cls]
+                                
+                                detections.append({
+                                    'class': class_name,
+                                    'confidence': conf
+                                })
+                                
+                                cv2.rectangle(plotted_img, 
+                                            (int(x1), int(y1)), 
+                                            (int(x2), int(y2)), 
+                                            (0, 255, 0), 3)
+                                
+                                label = f"{class_name} {conf:.2f}"
+                                cv2.putText(plotted_img, label, 
+                                          (int(x1), int(y1) - 10), 
+                                          cv2.FONT_HERSHEY_SIMPLEX, 
+                                          1.0, 
+                                          (0, 255, 0), 
+                                          3)
                             
-                            # Display detection details
-                            st.subheader("Detection Details")
-                            for r in results:
-                                for box in r.boxes:
-                                    confidence = float(box.conf[0])
-                                    class_id = int(box.cls[0])
-                                    class_name = st.session_state.model.names[class_id]
-                                    st.write(f"- {class_name}: {confidence:.2%} confidence")
-            else:
-                st.error("Please ensure the model is loaded correctly")
-
-if __name__ == "__main__":
-    main()
+                            st.image(plotted_img, use_column_width=True)
+                            
+                            st.write("### Detection Summary")
+                            st.write(f"Processing Time: {detect_time:.3f} seconds")
+                            st.write(f"Number of instances = {len(boxes)}")
+                            
+                            classes = [f"class{i+1} = {det['class']} ({det['confidence']:.2%})" 
+                                     for i, det in enumerate(detections)]
+                            st.write(f"Classes = {', '.join(classes)}")
+                        else:
+                            st.image(plotted_img, use_column_width=True)
+                            st.write("No instances detected")
+                            st.write(f"Processing Time: {detect_time:.3f} seconds")
+                            
+            except Exception as e:
+                st.error(f"Error during prediction: {str(e)}")
+                st.error(f"Error type: {type(e).__name__}")
+    else:
+        st.write("Please preprocess the image first before detection.")
