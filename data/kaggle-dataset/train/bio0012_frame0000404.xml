@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bio0012</folder>
+	<filename>bio0012_frame0000404.jpg</filename>
+	<path>/home/marc/Downloads/drive-download-20180910T210040Z-001/bio0012/bio0012_frame0000404.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>170</ymin>
+			<xmax>253</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

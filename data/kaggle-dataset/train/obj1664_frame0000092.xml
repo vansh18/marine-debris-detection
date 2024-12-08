@@ -1,0 +1,26 @@
+<annotation>
+	<folder>obj1664</folder>
+	<filename>obj1664_frame0000092.jpg</filename>
+	<path>/home/marc/Downloads/drive-download-20180910T212053Z-001/obj1664/obj1664_frame0000092.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>72</ymin>
+			<xmax>174</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+</annotation>

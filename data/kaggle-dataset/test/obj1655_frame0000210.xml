@@ -1,0 +1,26 @@
+<annotation>
+	<folder>obj1655</folder>
+	<filename>obj1655_frame0000210.jpg</filename>
+	<path>/home/marc/Downloads/drive-download-20180909T195351Z-001/obj1655/obj1655_frame0000210.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>87</ymin>
+			<xmax>227</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>
